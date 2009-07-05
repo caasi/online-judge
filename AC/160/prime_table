@@ -1,0 +1,30 @@
+int is_prime[101];
+void build_prime_table()
+{
+	is_prime[2] = 1;
+	is_prime[3] = 1;
+	is_prime[5] = 1;
+	is_prime[7] = 1;
+	is_prime[11] = 1;
+	is_prime[13] = 1;
+	is_prime[17] = 1;
+	is_prime[19] = 1;
+	is_prime[23] = 1;
+	is_prime[29] = 1;
+	is_prime[31] = 1;
+	is_prime[37] = 1;
+	is_prime[41] = 1;
+	is_prime[43] = 1;
+	is_prime[47] = 1;
+	is_prime[53] = 1;
+	is_prime[59] = 1;
+	is_prime[61] = 1;
+	is_prime[67] = 1;
+	is_prime[71] = 1;
+	is_prime[73] = 1;
+	is_prime[79] = 1;
+	is_prime[83] = 1;
+	is_prime[89] = 1;
+	is_prime[97] = 1;
+	return;
+}
