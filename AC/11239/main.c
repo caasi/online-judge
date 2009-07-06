@@ -36,6 +36,8 @@ typedef struct hash
 
 hash *name_table[NAME_LIMIT];
 hash *project_table[PROJECT_LIMIT];
+hash *sorted_project[PROJECT_LIMIT];
+int project_tail;
 
 hash *new_hash(char *string, int len)
 {
@@ -106,7 +108,6 @@ void set_hash(hash **table, int len, char *index)
 			
 	}
 	prev->cls = new_hash(index, index_len);
-	printf("hash setted.\n");
 	return;
 }
 
@@ -118,9 +119,48 @@ hash *get_hash(hash **table, int len, char *index)
 	hashed = get_hash_num(len, index, index_len);
 	h = table[hashed];
 	while(h)
+	{
 		if(strncmp(h->string, index, index_len) == 0)
 			break;
+		h = h->cls;
+	}
 	return h;
+}
+
+void sort_project()
+{
+	int i, j;
+	hash *current;
+	project_tail = 0;
+	for(i = 0; i < PROJECT_LIMIT; i++)
+		if(project_table[i])
+			for(current = project_table[i]; current; current = current->cls)
+				sorted_project[project_tail++] = current;
+	for(i = 0; i < project_tail; i++)
+	{
+		for(j = 0; j < project_tail - i - 1; j++)
+			if(
+				sorted_project[j]->count <=
+				sorted_project[j+1]->count
+			)
+			{
+				if(
+					sorted_project[j]->count ==
+					sorted_project[j+1]->count
+					&&
+					strcmp
+					(
+						sorted_project[j]->string,
+						sorted_project[j+1]->string
+					) < 0
+				)
+					continue;
+				current = sorted_project[j];
+				sorted_project[j] = sorted_project[j+1];
+				sorted_project[j+1] = current;
+			}
+	}
+	return;
 }
 
 void clear_all()
@@ -151,7 +191,10 @@ int main(int argc, char *argv[])
 			{
 				p = get_hash(project_table, PROJECT_LIMIT, line);
 				if(!p)
+				{
 					set_hash(project_table, PROJECT_LIMIT, line);
+					p = get_hash(project_table, PROJECT_LIMIT, line);
+				}
 			}
 			if(islower(line[0]))
 			{
@@ -167,8 +210,8 @@ int main(int argc, char *argv[])
 				{
 					if(h->link != blacklist && h->link != p)
 					{
+						h->link->count--;
 						h->link = blacklist;
-						p->count--;
 					}
 				}
 			}
@@ -176,16 +219,21 @@ int main(int argc, char *argv[])
 			{
 				if(line[0] == '1')
 				{
-					/* unsorted */
-					for(i = 0; i < PROJECT_LIMIT; i++)
-						if(project_table[i])
+					sort_project();
+					for(i = 0; i < project_tail; i++)
+						if(
+							sorted_project[i] &&
+							sorted_project[i] != blacklist
+						)
 							printf
 							(
 								"%s %d\n",
-								project_table[i]->string,
-								project_table[i]->count
+								sorted_project[i]->string,
+								sorted_project[i]->count
 							);
 					clear_all();
+					set_hash(project_table, PROJECT_LIMIT, "_BLACKLIST_");
+					blacklist = get_hash(project_table, PROJECT_LIMIT, "_BLACKLIST_");
 				}
 				else if(line[0] == '0')
 					break;
