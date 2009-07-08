@@ -1,42 +1,21 @@
 #include<stdio.h>
 #define SQUARE_WIDTH 2049
 #define SQUARE_HEIGHT 2049
-int plane[SQUARE_WIDTH][SQUARE_HEIGHT];
 
-void init_plane()
+int test_square(int x, int y, int k, int tx, int ty)
 {
-	int i, j;
-	for(i = 0; i < SQUARE_WIDTH; i++)
-		for(j = 0; j < SQUARE_HEIGHT; j++)
-			plane[i][j] = 0;
-	return;
-}
-
-void increase_point(int x, int y)
-{
-	if((unsigned int)x >= SQUARE_WIDTH)
-		return;
-	if((unsigned int)y >= SQUARE_HEIGHT)
-		return;
-	plane[y][x]++;
-}
-
-void draw_square(int x, int y, int k)
-{
-	int i, j;
+	int result = 0;
 	if(k > 512)
 		return;
-	for(i = y - k; i <= y + k; i++)
-		for(j = x - k; j <= x + k; j++)
-			increase_point(j, i);
 	if(k > 1)
-	{
-		draw_square(x - k, y - k, k / 2);
-		draw_square(x + k, y - k, k / 2);
-		draw_square(x - k, y + k, k / 2);
-		draw_square(x + k, y + k, k / 2);
-	}
-	return;
+		result +=
+			test_square(x - k, y - k, k / 2, tx, ty) +
+			test_square(x + k, y - k, k / 2, tx, ty) +
+			test_square(x - k, y + k, k / 2, tx, ty) +
+			test_square(x + k, y + k, k / 2, tx, ty);
+	if(tx >= x - k && tx <= x + k && ty >= y - k && ty <= y + k)
+		result++;
+	return result;
 }
 
 int main(int argc, char *argv[])
@@ -46,9 +25,7 @@ int main(int argc, char *argv[])
 	{
 		if(k == 0 && x == 0 && y == 0)
 			break;
-		init_plane();
-		draw_square(1024, 1024, k);
-		printf("%3d\n", plane[y][x]);
+		printf("%3d\n", test_square(1024, 1024, k, x, y));
 	}
 	return 0;
 }
