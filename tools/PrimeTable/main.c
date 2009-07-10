@@ -6,15 +6,22 @@ int is_prime[LIMIT + 1];
 
 void build_prime_table()
 {
-	unsigned int i, j;
+	unsigned int i, j, p;
 	is_prime[0] = 0;
 	is_prime[1] = 0;
 	is_prime[2] = 1;
-	for(i = 1; i < 32500; i++)
-		is_prime[2 * i + 1] = 1;
-	for(i = 1; i < 32500; i++)
-		for(j = 2; j <= 65000 / (2 * i + 1); j++)
-			is_prime[2 * i * j + j] = 0;
+	is_prime[3] = 1;
+	is_prime[5] = 1;
+	for(i = 1; 6 * i < LIMIT; i++)
+	{
+		is_prime[6 * i + 1] = 1;
+		is_prime[6 * i + 5] = 1;
+	}
+	
+	for(i = 5; i < 65000; i++)
+		if(is_prime[i])
+			for(j = i << 1; j  < 65000; j += i)
+				is_prime[j] = 0;
 	return;
 }
 
