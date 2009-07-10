@@ -52,6 +52,7 @@ int pop(stack *s)
 	return s->stuff[--s->length];
 }
 
+/* fucked when compile with -O2 */
 void build_prime_table(int limit)
 {
 	unsigned int i, j, prime;
@@ -95,10 +96,22 @@ void build_prime_table(int limit)
 
 int main(int argc, char *argv[])
 {
-	int i;
-	build_prime_table(1000000);
-	for(i = 0; i < primes->length; i++)
-		printf("%d\n", primes->stuff[i]);
-	delete_stack(&primes);
+	int i, num;
+	if(argc == 2)
+	{
+		num = atoi(argv[1]);
+		build_prime_table(num);
+		printf("int primes[%d]={", primes->length);
+		for(i = 0; i < primes->length; i++)
+		{
+			printf(
+				"%d%c",
+				primes->stuff[i],
+				i == primes->length - 1 ? '}' : ','
+			);
+		}
+		printf(";\n");
+		delete_stack(&primes);
+	}
 	return 0;
 }
