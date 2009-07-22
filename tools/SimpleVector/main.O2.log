@@ -1,0 +1,21 @@
+Dump of assembler code for function vector_delete:
+0x08048470 <vector_delete+0>:	push   %ebp
+0x08048471 <vector_delete+1>:	mov    %esp,%ebp
+0x08048473 <vector_delete+3>:	push   %ebx
+0x08048474 <vector_delete+4>:	sub    $0x4,%esp
+0x08048477 <vector_delete+7>:	mov    0x8(%ebp),%ebx
+0x0804847a <vector_delete+10>:	test   %ebx,%ebx
+0x0804847c <vector_delete+12>:	je     0x8048493 <vector_delete+35>
+0x0804847e <vector_delete+14>:	mov    (%ebx),%eax
+0x08048480 <vector_delete+16>:	mov    %eax,(%esp)
+0x08048483 <vector_delete+19>:	call   0x80482f8 <free@plt>
+0x08048488 <vector_delete+24>:	mov    %ebx,0x8(%ebp)
+0x0804848b <vector_delete+27>:	pop    %ecx
+0x0804848c <vector_delete+28>:	pop    %ebx
+0x0804848d <vector_delete+29>:	pop    %ebp
+0x0804848e <vector_delete+30>:	jmp    0x80482f8 <free@plt>
+0x08048493 <vector_delete+35>:	pop    %edx
+0x08048494 <vector_delete+36>:	pop    %ebx
+0x08048495 <vector_delete+37>:	pop    %ebp
+0x08048496 <vector_delete+38>:	ret    
+End of assembler dump.
