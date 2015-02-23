@@ -1,0 +1,5053 @@
+left= 0	right= 0
+left= 1	right= 1
+left= 2	right= 2
+left= 3	right= 3
+left= 4	right= 4
+left= 5	right= 5
+left= 6	right= 6
+left= 7	right= 7
+left= 8	right= 8
+left= 9	right= 9
+left=10	right=10
+left=11	right=11
+left=12	right=12
+left=13	right=13
+left=14	right=14
+left=15	right=15
+left=16	right=16
+left=17	right=17
+left=18	right=18
+left=19	right=19
+left=20	right=20
+left=21	right=21
+left=22	right=22
+left=23	right=23
+left=24	right=24
+left=25	right=25
+left=26	right=26
+left=27	right=27
+left=28	right=28
+left=29	right=29
+left=30	right=30
+left=31	right=31
+left=32	right=32
+left=33	right=33
+left=34	right=34
+left=35	right=35
+left=36	right=36
+left=37	right=37
+left=38	right=38
+left=39	right=39
+left=40	right=40
+left=41	right=41
+left=42	right=42
+left=43	right=43
+left=44	right=44
+left=45	right=45
+left=46	right=46
+left=47	right=47
+left=48	right=48
+left=49	right=49
+left=50	right=50
+left=51	right=51
+left=52	right=52
+left=53	right=53
+left=54	right=54
+left=55	right=55
+left=56	right=56
+left=57	right=57
+left=58	right=58
+left=59	right=59
+left=60	right=60
+left=61	right=61
+left=62	right=62
+left=63	right=63
+left=64	right=64
+left=65	right=65
+left=66	right=66
+left=67	right=67
+left=68	right=68
+left=69	right=69
+left=70	right=70
+left=71	right=71
+left=72	right=72
+left=73	right=73
+left=74	right=74
+left=75	right=75
+left=76	right=76
+left=77	right=77
+left=78	right=78
+left=79	right=79
+left=80	right=80
+left=81	right=81
+left=82	right=82
+left=83	right=83
+left=84	right=84
+left=85	right=85
+left=86	right=86
+left=87	right=87
+left=88	right=88
+left=89	right=89
+left=90	right=90
+left=91	right=91
+left=92	right=92
+left=93	right=93
+left=94	right=94
+left=95	right=95
+left=96	right=96
+left=97	right=97
+left=98	right=98
+left=99	right=99
+left= 0	right= 1
+left= 1	right= 2
+left= 2	right= 3
+left= 3	right= 4
+left= 4	right= 5
+left= 5	right= 6
+left= 6	right= 7
+left= 7	right= 8
+left= 8	right= 9
+left= 9	right=10
+left=10	right=11
+left=11	right=12
+left=12	right=13
+left=13	right=14
+left=14	right=15
+left=15	right=16
+left=16	right=17
+left=17	right=18
+left=18	right=19
+left=19	right=20
+left=20	right=21
+left=21	right=22
+left=22	right=23
+left=23	right=24
+left=24	right=25
+left=25	right=26
+left=26	right=27
+left=27	right=28
+left=28	right=29
+left=29	right=30
+left=30	right=31
+left=31	right=32
+left=32	right=33
+left=33	right=34
+left=34	right=35
+left=35	right=36
+left=36	right=37
+left=37	right=38
+left=38	right=39
+left=39	right=40
+left=40	right=41
+left=41	right=42
+left=42	right=43
+left=43	right=44
+left=44	right=45
+left=45	right=46
+left=46	right=47
+left=47	right=48
+left=48	right=49
+left=49	right=50
+left=50	right=51
+left=51	right=52
+left=52	right=53
+left=53	right=54
+left=54	right=55
+left=55	right=56
+left=56	right=57
+left=57	right=58
+left=58	right=59
+left=59	right=60
+left=60	right=61
+left=61	right=62
+left=62	right=63
+left=63	right=64
+left=64	right=65
+left=65	right=66
+left=66	right=67
+left=67	right=68
+left=68	right=69
+left=69	right=70
+left=70	right=71
+left=71	right=72
+left=72	right=73
+left=73	right=74
+left=74	right=75
+left=75	right=76
+left=76	right=77
+left=77	right=78
+left=78	right=79
+left=79	right=80
+left=80	right=81
+left=81	right=82
+left=82	right=83
+left=83	right=84
+left=84	right=85
+left=85	right=86
+left=86	right=87
+left=87	right=88
+left=88	right=89
+left=89	right=90
+left=90	right=91
+left=91	right=92
+left=92	right=93
+left=93	right=94
+left=94	right=95
+left=95	right=96
+left=96	right=97
+left=97	right=98
+left=98	right=99
+left= 0	right= 2
+left= 1	right= 3
+left= 2	right= 4
+left= 3	right= 5
+left= 4	right= 6
+left= 5	right= 7
+left= 6	right= 8
+left= 7	right= 9
+left= 8	right=10
+left= 9	right=11
+left=10	right=12
+left=11	right=13
+left=12	right=14
+left=13	right=15
+left=14	right=16
+left=15	right=17
+left=16	right=18
+left=17	right=19
+left=18	right=20
+left=19	right=21
+left=20	right=22
+left=21	right=23
+left=22	right=24
+left=23	right=25
+left=24	right=26
+left=25	right=27
+left=26	right=28
+left=27	right=29
+left=28	right=30
+left=29	right=31
+left=30	right=32
+left=31	right=33
+left=32	right=34
+left=33	right=35
+left=34	right=36
+left=35	right=37
+left=36	right=38
+left=37	right=39
+left=38	right=40
+left=39	right=41
+left=40	right=42
+left=41	right=43
+left=42	right=44
+left=43	right=45
+left=44	right=46
+left=45	right=47
+left=46	right=48
+left=47	right=49
+left=48	right=50
+left=49	right=51
+left=50	right=52
+left=51	right=53
+left=52	right=54
+left=53	right=55
+left=54	right=56
+left=55	right=57
+left=56	right=58
+left=57	right=59
+left=58	right=60
+left=59	right=61
+left=60	right=62
+left=61	right=63
+left=62	right=64
+left=63	right=65
+left=64	right=66
+left=65	right=67
+left=66	right=68
+left=67	right=69
+left=68	right=70
+left=69	right=71
+left=70	right=72
+left=71	right=73
+left=72	right=74
+left=73	right=75
+left=74	right=76
+left=75	right=77
+left=76	right=78
+left=77	right=79
+left=78	right=80
+left=79	right=81
+left=80	right=82
+left=81	right=83
+left=82	right=84
+left=83	right=85
+left=84	right=86
+left=85	right=87
+left=86	right=88
+left=87	right=89
+left=88	right=90
+left=89	right=91
+left=90	right=92
+left=91	right=93
+left=92	right=94
+left=93	right=95
+left=94	right=96
+left=95	right=97
+left=96	right=98
+left=97	right=99
+left= 0	right= 3
+left= 1	right= 4
+left= 2	right= 5
+left= 3	right= 6
+left= 4	right= 7
+left= 5	right= 8
+left= 6	right= 9
+left= 7	right=10
+left= 8	right=11
+left= 9	right=12
+left=10	right=13
+left=11	right=14
+left=12	right=15
+left=13	right=16
+left=14	right=17
+left=15	right=18
+left=16	right=19
+left=17	right=20
+left=18	right=21
+left=19	right=22
+left=20	right=23
+left=21	right=24
+left=22	right=25
+left=23	right=26
+left=24	right=27
+left=25	right=28
+left=26	right=29
+left=27	right=30
+left=28	right=31
+left=29	right=32
+left=30	right=33
+left=31	right=34
+left=32	right=35
+left=33	right=36
+left=34	right=37
+left=35	right=38
+left=36	right=39
+left=37	right=40
+left=38	right=41
+left=39	right=42
+left=40	right=43
+left=41	right=44
+left=42	right=45
+left=43	right=46
+left=44	right=47
+left=45	right=48
+left=46	right=49
+left=47	right=50
+left=48	right=51
+left=49	right=52
+left=50	right=53
+left=51	right=54
+left=52	right=55
+left=53	right=56
+left=54	right=57
+left=55	right=58
+left=56	right=59
+left=57	right=60
+left=58	right=61
+left=59	right=62
+left=60	right=63
+left=61	right=64
+left=62	right=65
+left=63	right=66
+left=64	right=67
+left=65	right=68
+left=66	right=69
+left=67	right=70
+left=68	right=71
+left=69	right=72
+left=70	right=73
+left=71	right=74
+left=72	right=75
+left=73	right=76
+left=74	right=77
+left=75	right=78
+left=76	right=79
+left=77	right=80
+left=78	right=81
+left=79	right=82
+left=80	right=83
+left=81	right=84
+left=82	right=85
+left=83	right=86
+left=84	right=87
+left=85	right=88
+left=86	right=89
+left=87	right=90
+left=88	right=91
+left=89	right=92
+left=90	right=93
+left=91	right=94
+left=92	right=95
+left=93	right=96
+left=94	right=97
+left=95	right=98
+left=96	right=99
+left= 0	right= 4
+left= 1	right= 5
+left= 2	right= 6
+left= 3	right= 7
+left= 4	right= 8
+left= 5	right= 9
+left= 6	right=10
+left= 7	right=11
+left= 8	right=12
+left= 9	right=13
+left=10	right=14
+left=11	right=15
+left=12	right=16
+left=13	right=17
+left=14	right=18
+left=15	right=19
+left=16	right=20
+left=17	right=21
+left=18	right=22
+left=19	right=23
+left=20	right=24
+left=21	right=25
+left=22	right=26
+left=23	right=27
+left=24	right=28
+left=25	right=29
+left=26	right=30
+left=27	right=31
+left=28	right=32
+left=29	right=33
+left=30	right=34
+left=31	right=35
+left=32	right=36
+left=33	right=37
+left=34	right=38
+left=35	right=39
+left=36	right=40
+left=37	right=41
+left=38	right=42
+left=39	right=43
+left=40	right=44
+left=41	right=45
+left=42	right=46
+left=43	right=47
+left=44	right=48
+left=45	right=49
+left=46	right=50
+left=47	right=51
+left=48	right=52
+left=49	right=53
+left=50	right=54
+left=51	right=55
+left=52	right=56
+left=53	right=57
+left=54	right=58
+left=55	right=59
+left=56	right=60
+left=57	right=61
+left=58	right=62
+left=59	right=63
+left=60	right=64
+left=61	right=65
+left=62	right=66
+left=63	right=67
+left=64	right=68
+left=65	right=69
+left=66	right=70
+left=67	right=71
+left=68	right=72
+left=69	right=73
+left=70	right=74
+left=71	right=75
+left=72	right=76
+left=73	right=77
+left=74	right=78
+left=75	right=79
+left=76	right=80
+left=77	right=81
+left=78	right=82
+left=79	right=83
+left=80	right=84
+left=81	right=85
+left=82	right=86
+left=83	right=87
+left=84	right=88
+left=85	right=89
+left=86	right=90
+left=87	right=91
+left=88	right=92
+left=89	right=93
+left=90	right=94
+left=91	right=95
+left=92	right=96
+left=93	right=97
+left=94	right=98
+left=95	right=99
+left= 0	right= 5
+left= 1	right= 6
+left= 2	right= 7
+left= 3	right= 8
+left= 4	right= 9
+left= 5	right=10
+left= 6	right=11
+left= 7	right=12
+left= 8	right=13
+left= 9	right=14
+left=10	right=15
+left=11	right=16
+left=12	right=17
+left=13	right=18
+left=14	right=19
+left=15	right=20
+left=16	right=21
+left=17	right=22
+left=18	right=23
+left=19	right=24
+left=20	right=25
+left=21	right=26
+left=22	right=27
+left=23	right=28
+left=24	right=29
+left=25	right=30
+left=26	right=31
+left=27	right=32
+left=28	right=33
+left=29	right=34
+left=30	right=35
+left=31	right=36
+left=32	right=37
+left=33	right=38
+left=34	right=39
+left=35	right=40
+left=36	right=41
+left=37	right=42
+left=38	right=43
+left=39	right=44
+left=40	right=45
+left=41	right=46
+left=42	right=47
+left=43	right=48
+left=44	right=49
+left=45	right=50
+left=46	right=51
+left=47	right=52
+left=48	right=53
+left=49	right=54
+left=50	right=55
+left=51	right=56
+left=52	right=57
+left=53	right=58
+left=54	right=59
+left=55	right=60
+left=56	right=61
+left=57	right=62
+left=58	right=63
+left=59	right=64
+left=60	right=65
+left=61	right=66
+left=62	right=67
+left=63	right=68
+left=64	right=69
+left=65	right=70
+left=66	right=71
+left=67	right=72
+left=68	right=73
+left=69	right=74
+left=70	right=75
+left=71	right=76
+left=72	right=77
+left=73	right=78
+left=74	right=79
+left=75	right=80
+left=76	right=81
+left=77	right=82
+left=78	right=83
+left=79	right=84
+left=80	right=85
+left=81	right=86
+left=82	right=87
+left=83	right=88
+left=84	right=89
+left=85	right=90
+left=86	right=91
+left=87	right=92
+left=88	right=93
+left=89	right=94
+left=90	right=95
+left=91	right=96
+left=92	right=97
+left=93	right=98
+left=94	right=99
+left= 0	right= 6
+left= 1	right= 7
+left= 2	right= 8
+left= 3	right= 9
+left= 4	right=10
+left= 5	right=11
+left= 6	right=12
+left= 7	right=13
+left= 8	right=14
+left= 9	right=15
+left=10	right=16
+left=11	right=17
+left=12	right=18
+left=13	right=19
+left=14	right=20
+left=15	right=21
+left=16	right=22
+left=17	right=23
+left=18	right=24
+left=19	right=25
+left=20	right=26
+left=21	right=27
+left=22	right=28
+left=23	right=29
+left=24	right=30
+left=25	right=31
+left=26	right=32
+left=27	right=33
+left=28	right=34
+left=29	right=35
+left=30	right=36
+left=31	right=37
+left=32	right=38
+left=33	right=39
+left=34	right=40
+left=35	right=41
+left=36	right=42
+left=37	right=43
+left=38	right=44
+left=39	right=45
+left=40	right=46
+left=41	right=47
+left=42	right=48
+left=43	right=49
+left=44	right=50
+left=45	right=51
+left=46	right=52
+left=47	right=53
+left=48	right=54
+left=49	right=55
+left=50	right=56
+left=51	right=57
+left=52	right=58
+left=53	right=59
+left=54	right=60
+left=55	right=61
+left=56	right=62
+left=57	right=63
+left=58	right=64
+left=59	right=65
+left=60	right=66
+left=61	right=67
+left=62	right=68
+left=63	right=69
+left=64	right=70
+left=65	right=71
+left=66	right=72
+left=67	right=73
+left=68	right=74
+left=69	right=75
+left=70	right=76
+left=71	right=77
+left=72	right=78
+left=73	right=79
+left=74	right=80
+left=75	right=81
+left=76	right=82
+left=77	right=83
+left=78	right=84
+left=79	right=85
+left=80	right=86
+left=81	right=87
+left=82	right=88
+left=83	right=89
+left=84	right=90
+left=85	right=91
+left=86	right=92
+left=87	right=93
+left=88	right=94
+left=89	right=95
+left=90	right=96
+left=91	right=97
+left=92	right=98
+left=93	right=99
+left= 0	right= 7
+left= 1	right= 8
+left= 2	right= 9
+left= 3	right=10
+left= 4	right=11
+left= 5	right=12
+left= 6	right=13
+left= 7	right=14
+left= 8	right=15
+left= 9	right=16
+left=10	right=17
+left=11	right=18
+left=12	right=19
+left=13	right=20
+left=14	right=21
+left=15	right=22
+left=16	right=23
+left=17	right=24
+left=18	right=25
+left=19	right=26
+left=20	right=27
+left=21	right=28
+left=22	right=29
+left=23	right=30
+left=24	right=31
+left=25	right=32
+left=26	right=33
+left=27	right=34
+left=28	right=35
+left=29	right=36
+left=30	right=37
+left=31	right=38
+left=32	right=39
+left=33	right=40
+left=34	right=41
+left=35	right=42
+left=36	right=43
+left=37	right=44
+left=38	right=45
+left=39	right=46
+left=40	right=47
+left=41	right=48
+left=42	right=49
+left=43	right=50
+left=44	right=51
+left=45	right=52
+left=46	right=53
+left=47	right=54
+left=48	right=55
+left=49	right=56
+left=50	right=57
+left=51	right=58
+left=52	right=59
+left=53	right=60
+left=54	right=61
+left=55	right=62
+left=56	right=63
+left=57	right=64
+left=58	right=65
+left=59	right=66
+left=60	right=67
+left=61	right=68
+left=62	right=69
+left=63	right=70
+left=64	right=71
+left=65	right=72
+left=66	right=73
+left=67	right=74
+left=68	right=75
+left=69	right=76
+left=70	right=77
+left=71	right=78
+left=72	right=79
+left=73	right=80
+left=74	right=81
+left=75	right=82
+left=76	right=83
+left=77	right=84
+left=78	right=85
+left=79	right=86
+left=80	right=87
+left=81	right=88
+left=82	right=89
+left=83	right=90
+left=84	right=91
+left=85	right=92
+left=86	right=93
+left=87	right=94
+left=88	right=95
+left=89	right=96
+left=90	right=97
+left=91	right=98
+left=92	right=99
+left= 0	right= 8
+left= 1	right= 9
+left= 2	right=10
+left= 3	right=11
+left= 4	right=12
+left= 5	right=13
+left= 6	right=14
+left= 7	right=15
+left= 8	right=16
+left= 9	right=17
+left=10	right=18
+left=11	right=19
+left=12	right=20
+left=13	right=21
+left=14	right=22
+left=15	right=23
+left=16	right=24
+left=17	right=25
+left=18	right=26
+left=19	right=27
+left=20	right=28
+left=21	right=29
+left=22	right=30
+left=23	right=31
+left=24	right=32
+left=25	right=33
+left=26	right=34
+left=27	right=35
+left=28	right=36
+left=29	right=37
+left=30	right=38
+left=31	right=39
+left=32	right=40
+left=33	right=41
+left=34	right=42
+left=35	right=43
+left=36	right=44
+left=37	right=45
+left=38	right=46
+left=39	right=47
+left=40	right=48
+left=41	right=49
+left=42	right=50
+left=43	right=51
+left=44	right=52
+left=45	right=53
+left=46	right=54
+left=47	right=55
+left=48	right=56
+left=49	right=57
+left=50	right=58
+left=51	right=59
+left=52	right=60
+left=53	right=61
+left=54	right=62
+left=55	right=63
+left=56	right=64
+left=57	right=65
+left=58	right=66
+left=59	right=67
+left=60	right=68
+left=61	right=69
+left=62	right=70
+left=63	right=71
+left=64	right=72
+left=65	right=73
+left=66	right=74
+left=67	right=75
+left=68	right=76
+left=69	right=77
+left=70	right=78
+left=71	right=79
+left=72	right=80
+left=73	right=81
+left=74	right=82
+left=75	right=83
+left=76	right=84
+left=77	right=85
+left=78	right=86
+left=79	right=87
+left=80	right=88
+left=81	right=89
+left=82	right=90
+left=83	right=91
+left=84	right=92
+left=85	right=93
+left=86	right=94
+left=87	right=95
+left=88	right=96
+left=89	right=97
+left=90	right=98
+left=91	right=99
+left= 0	right= 9
+left= 1	right=10
+left= 2	right=11
+left= 3	right=12
+left= 4	right=13
+left= 5	right=14
+left= 6	right=15
+left= 7	right=16
+left= 8	right=17
+left= 9	right=18
+left=10	right=19
+left=11	right=20
+left=12	right=21
+left=13	right=22
+left=14	right=23
+left=15	right=24
+left=16	right=25
+left=17	right=26
+left=18	right=27
+left=19	right=28
+left=20	right=29
+left=21	right=30
+left=22	right=31
+left=23	right=32
+left=24	right=33
+left=25	right=34
+left=26	right=35
+left=27	right=36
+left=28	right=37
+left=29	right=38
+left=30	right=39
+left=31	right=40
+left=32	right=41
+left=33	right=42
+left=34	right=43
+left=35	right=44
+left=36	right=45
+left=37	right=46
+left=38	right=47
+left=39	right=48
+left=40	right=49
+left=41	right=50
+left=42	right=51
+left=43	right=52
+left=44	right=53
+left=45	right=54
+left=46	right=55
+left=47	right=56
+left=48	right=57
+left=49	right=58
+left=50	right=59
+left=51	right=60
+left=52	right=61
+left=53	right=62
+left=54	right=63
+left=55	right=64
+left=56	right=65
+left=57	right=66
+left=58	right=67
+left=59	right=68
+left=60	right=69
+left=61	right=70
+left=62	right=71
+left=63	right=72
+left=64	right=73
+left=65	right=74
+left=66	right=75
+left=67	right=76
+left=68	right=77
+left=69	right=78
+left=70	right=79
+left=71	right=80
+left=72	right=81
+left=73	right=82
+left=74	right=83
+left=75	right=84
+left=76	right=85
+left=77	right=86
+left=78	right=87
+left=79	right=88
+left=80	right=89
+left=81	right=90
+left=82	right=91
+left=83	right=92
+left=84	right=93
+left=85	right=94
+left=86	right=95
+left=87	right=96
+left=88	right=97
+left=89	right=98
+left=90	right=99
+left= 0	right=10
+left= 1	right=11
+left= 2	right=12
+left= 3	right=13
+left= 4	right=14
+left= 5	right=15
+left= 6	right=16
+left= 7	right=17
+left= 8	right=18
+left= 9	right=19
+left=10	right=20
+left=11	right=21
+left=12	right=22
+left=13	right=23
+left=14	right=24
+left=15	right=25
+left=16	right=26
+left=17	right=27
+left=18	right=28
+left=19	right=29
+left=20	right=30
+left=21	right=31
+left=22	right=32
+left=23	right=33
+left=24	right=34
+left=25	right=35
+left=26	right=36
+left=27	right=37
+left=28	right=38
+left=29	right=39
+left=30	right=40
+left=31	right=41
+left=32	right=42
+left=33	right=43
+left=34	right=44
+left=35	right=45
+left=36	right=46
+left=37	right=47
+left=38	right=48
+left=39	right=49
+left=40	right=50
+left=41	right=51
+left=42	right=52
+left=43	right=53
+left=44	right=54
+left=45	right=55
+left=46	right=56
+left=47	right=57
+left=48	right=58
+left=49	right=59
+left=50	right=60
+left=51	right=61
+left=52	right=62
+left=53	right=63
+left=54	right=64
+left=55	right=65
+left=56	right=66
+left=57	right=67
+left=58	right=68
+left=59	right=69
+left=60	right=70
+left=61	right=71
+left=62	right=72
+left=63	right=73
+left=64	right=74
+left=65	right=75
+left=66	right=76
+left=67	right=77
+left=68	right=78
+left=69	right=79
+left=70	right=80
+left=71	right=81
+left=72	right=82
+left=73	right=83
+left=74	right=84
+left=75	right=85
+left=76	right=86
+left=77	right=87
+left=78	right=88
+left=79	right=89
+left=80	right=90
+left=81	right=91
+left=82	right=92
+left=83	right=93
+left=84	right=94
+left=85	right=95
+left=86	right=96
+left=87	right=97
+left=88	right=98
+left=89	right=99
+left= 0	right=11
+left= 1	right=12
+left= 2	right=13
+left= 3	right=14
+left= 4	right=15
+left= 5	right=16
+left= 6	right=17
+left= 7	right=18
+left= 8	right=19
+left= 9	right=20
+left=10	right=21
+left=11	right=22
+left=12	right=23
+left=13	right=24
+left=14	right=25
+left=15	right=26
+left=16	right=27
+left=17	right=28
+left=18	right=29
+left=19	right=30
+left=20	right=31
+left=21	right=32
+left=22	right=33
+left=23	right=34
+left=24	right=35
+left=25	right=36
+left=26	right=37
+left=27	right=38
+left=28	right=39
+left=29	right=40
+left=30	right=41
+left=31	right=42
+left=32	right=43
+left=33	right=44
+left=34	right=45
+left=35	right=46
+left=36	right=47
+left=37	right=48
+left=38	right=49
+left=39	right=50
+left=40	right=51
+left=41	right=52
+left=42	right=53
+left=43	right=54
+left=44	right=55
+left=45	right=56
+left=46	right=57
+left=47	right=58
+left=48	right=59
+left=49	right=60
+left=50	right=61
+left=51	right=62
+left=52	right=63
+left=53	right=64
+left=54	right=65
+left=55	right=66
+left=56	right=67
+left=57	right=68
+left=58	right=69
+left=59	right=70
+left=60	right=71
+left=61	right=72
+left=62	right=73
+left=63	right=74
+left=64	right=75
+left=65	right=76
+left=66	right=77
+left=67	right=78
+left=68	right=79
+left=69	right=80
+left=70	right=81
+left=71	right=82
+left=72	right=83
+left=73	right=84
+left=74	right=85
+left=75	right=86
+left=76	right=87
+left=77	right=88
+left=78	right=89
+left=79	right=90
+left=80	right=91
+left=81	right=92
+left=82	right=93
+left=83	right=94
+left=84	right=95
+left=85	right=96
+left=86	right=97
+left=87	right=98
+left=88	right=99
+left= 0	right=12
+left= 1	right=13
+left= 2	right=14
+left= 3	right=15
+left= 4	right=16
+left= 5	right=17
+left= 6	right=18
+left= 7	right=19
+left= 8	right=20
+left= 9	right=21
+left=10	right=22
+left=11	right=23
+left=12	right=24
+left=13	right=25
+left=14	right=26
+left=15	right=27
+left=16	right=28
+left=17	right=29
+left=18	right=30
+left=19	right=31
+left=20	right=32
+left=21	right=33
+left=22	right=34
+left=23	right=35
+left=24	right=36
+left=25	right=37
+left=26	right=38
+left=27	right=39
+left=28	right=40
+left=29	right=41
+left=30	right=42
+left=31	right=43
+left=32	right=44
+left=33	right=45
+left=34	right=46
+left=35	right=47
+left=36	right=48
+left=37	right=49
+left=38	right=50
+left=39	right=51
+left=40	right=52
+left=41	right=53
+left=42	right=54
+left=43	right=55
+left=44	right=56
+left=45	right=57
+left=46	right=58
+left=47	right=59
+left=48	right=60
+left=49	right=61
+left=50	right=62
+left=51	right=63
+left=52	right=64
+left=53	right=65
+left=54	right=66
+left=55	right=67
+left=56	right=68
+left=57	right=69
+left=58	right=70
+left=59	right=71
+left=60	right=72
+left=61	right=73
+left=62	right=74
+left=63	right=75
+left=64	right=76
+left=65	right=77
+left=66	right=78
+left=67	right=79
+left=68	right=80
+left=69	right=81
+left=70	right=82
+left=71	right=83
+left=72	right=84
+left=73	right=85
+left=74	right=86
+left=75	right=87
+left=76	right=88
+left=77	right=89
+left=78	right=90
+left=79	right=91
+left=80	right=92
+left=81	right=93
+left=82	right=94
+left=83	right=95
+left=84	right=96
+left=85	right=97
+left=86	right=98
+left=87	right=99
+left= 0	right=13
+left= 1	right=14
+left= 2	right=15
+left= 3	right=16
+left= 4	right=17
+left= 5	right=18
+left= 6	right=19
+left= 7	right=20
+left= 8	right=21
+left= 9	right=22
+left=10	right=23
+left=11	right=24
+left=12	right=25
+left=13	right=26
+left=14	right=27
+left=15	right=28
+left=16	right=29
+left=17	right=30
+left=18	right=31
+left=19	right=32
+left=20	right=33
+left=21	right=34
+left=22	right=35
+left=23	right=36
+left=24	right=37
+left=25	right=38
+left=26	right=39
+left=27	right=40
+left=28	right=41
+left=29	right=42
+left=30	right=43
+left=31	right=44
+left=32	right=45
+left=33	right=46
+left=34	right=47
+left=35	right=48
+left=36	right=49
+left=37	right=50
+left=38	right=51
+left=39	right=52
+left=40	right=53
+left=41	right=54
+left=42	right=55
+left=43	right=56
+left=44	right=57
+left=45	right=58
+left=46	right=59
+left=47	right=60
+left=48	right=61
+left=49	right=62
+left=50	right=63
+left=51	right=64
+left=52	right=65
+left=53	right=66
+left=54	right=67
+left=55	right=68
+left=56	right=69
+left=57	right=70
+left=58	right=71
+left=59	right=72
+left=60	right=73
+left=61	right=74
+left=62	right=75
+left=63	right=76
+left=64	right=77
+left=65	right=78
+left=66	right=79
+left=67	right=80
+left=68	right=81
+left=69	right=82
+left=70	right=83
+left=71	right=84
+left=72	right=85
+left=73	right=86
+left=74	right=87
+left=75	right=88
+left=76	right=89
+left=77	right=90
+left=78	right=91
+left=79	right=92
+left=80	right=93
+left=81	right=94
+left=82	right=95
+left=83	right=96
+left=84	right=97
+left=85	right=98
+left=86	right=99
+left= 0	right=14
+left= 1	right=15
+left= 2	right=16
+left= 3	right=17
+left= 4	right=18
+left= 5	right=19
+left= 6	right=20
+left= 7	right=21
+left= 8	right=22
+left= 9	right=23
+left=10	right=24
+left=11	right=25
+left=12	right=26
+left=13	right=27
+left=14	right=28
+left=15	right=29
+left=16	right=30
+left=17	right=31
+left=18	right=32
+left=19	right=33
+left=20	right=34
+left=21	right=35
+left=22	right=36
+left=23	right=37
+left=24	right=38
+left=25	right=39
+left=26	right=40
+left=27	right=41
+left=28	right=42
+left=29	right=43
+left=30	right=44
+left=31	right=45
+left=32	right=46
+left=33	right=47
+left=34	right=48
+left=35	right=49
+left=36	right=50
+left=37	right=51
+left=38	right=52
+left=39	right=53
+left=40	right=54
+left=41	right=55
+left=42	right=56
+left=43	right=57
+left=44	right=58
+left=45	right=59
+left=46	right=60
+left=47	right=61
+left=48	right=62
+left=49	right=63
+left=50	right=64
+left=51	right=65
+left=52	right=66
+left=53	right=67
+left=54	right=68
+left=55	right=69
+left=56	right=70
+left=57	right=71
+left=58	right=72
+left=59	right=73
+left=60	right=74
+left=61	right=75
+left=62	right=76
+left=63	right=77
+left=64	right=78
+left=65	right=79
+left=66	right=80
+left=67	right=81
+left=68	right=82
+left=69	right=83
+left=70	right=84
+left=71	right=85
+left=72	right=86
+left=73	right=87
+left=74	right=88
+left=75	right=89
+left=76	right=90
+left=77	right=91
+left=78	right=92
+left=79	right=93
+left=80	right=94
+left=81	right=95
+left=82	right=96
+left=83	right=97
+left=84	right=98
+left=85	right=99
+left= 0	right=15
+left= 1	right=16
+left= 2	right=17
+left= 3	right=18
+left= 4	right=19
+left= 5	right=20
+left= 6	right=21
+left= 7	right=22
+left= 8	right=23
+left= 9	right=24
+left=10	right=25
+left=11	right=26
+left=12	right=27
+left=13	right=28
+left=14	right=29
+left=15	right=30
+left=16	right=31
+left=17	right=32
+left=18	right=33
+left=19	right=34
+left=20	right=35
+left=21	right=36
+left=22	right=37
+left=23	right=38
+left=24	right=39
+left=25	right=40
+left=26	right=41
+left=27	right=42
+left=28	right=43
+left=29	right=44
+left=30	right=45
+left=31	right=46
+left=32	right=47
+left=33	right=48
+left=34	right=49
+left=35	right=50
+left=36	right=51
+left=37	right=52
+left=38	right=53
+left=39	right=54
+left=40	right=55
+left=41	right=56
+left=42	right=57
+left=43	right=58
+left=44	right=59
+left=45	right=60
+left=46	right=61
+left=47	right=62
+left=48	right=63
+left=49	right=64
+left=50	right=65
+left=51	right=66
+left=52	right=67
+left=53	right=68
+left=54	right=69
+left=55	right=70
+left=56	right=71
+left=57	right=72
+left=58	right=73
+left=59	right=74
+left=60	right=75
+left=61	right=76
+left=62	right=77
+left=63	right=78
+left=64	right=79
+left=65	right=80
+left=66	right=81
+left=67	right=82
+left=68	right=83
+left=69	right=84
+left=70	right=85
+left=71	right=86
+left=72	right=87
+left=73	right=88
+left=74	right=89
+left=75	right=90
+left=76	right=91
+left=77	right=92
+left=78	right=93
+left=79	right=94
+left=80	right=95
+left=81	right=96
+left=82	right=97
+left=83	right=98
+left=84	right=99
+left= 0	right=16
+left= 1	right=17
+left= 2	right=18
+left= 3	right=19
+left= 4	right=20
+left= 5	right=21
+left= 6	right=22
+left= 7	right=23
+left= 8	right=24
+left= 9	right=25
+left=10	right=26
+left=11	right=27
+left=12	right=28
+left=13	right=29
+left=14	right=30
+left=15	right=31
+left=16	right=32
+left=17	right=33
+left=18	right=34
+left=19	right=35
+left=20	right=36
+left=21	right=37
+left=22	right=38
+left=23	right=39
+left=24	right=40
+left=25	right=41
+left=26	right=42
+left=27	right=43
+left=28	right=44
+left=29	right=45
+left=30	right=46
+left=31	right=47
+left=32	right=48
+left=33	right=49
+left=34	right=50
+left=35	right=51
+left=36	right=52
+left=37	right=53
+left=38	right=54
+left=39	right=55
+left=40	right=56
+left=41	right=57
+left=42	right=58
+left=43	right=59
+left=44	right=60
+left=45	right=61
+left=46	right=62
+left=47	right=63
+left=48	right=64
+left=49	right=65
+left=50	right=66
+left=51	right=67
+left=52	right=68
+left=53	right=69
+left=54	right=70
+left=55	right=71
+left=56	right=72
+left=57	right=73
+left=58	right=74
+left=59	right=75
+left=60	right=76
+left=61	right=77
+left=62	right=78
+left=63	right=79
+left=64	right=80
+left=65	right=81
+left=66	right=82
+left=67	right=83
+left=68	right=84
+left=69	right=85
+left=70	right=86
+left=71	right=87
+left=72	right=88
+left=73	right=89
+left=74	right=90
+left=75	right=91
+left=76	right=92
+left=77	right=93
+left=78	right=94
+left=79	right=95
+left=80	right=96
+left=81	right=97
+left=82	right=98
+left=83	right=99
+left= 0	right=17
+left= 1	right=18
+left= 2	right=19
+left= 3	right=20
+left= 4	right=21
+left= 5	right=22
+left= 6	right=23
+left= 7	right=24
+left= 8	right=25
+left= 9	right=26
+left=10	right=27
+left=11	right=28
+left=12	right=29
+left=13	right=30
+left=14	right=31
+left=15	right=32
+left=16	right=33
+left=17	right=34
+left=18	right=35
+left=19	right=36
+left=20	right=37
+left=21	right=38
+left=22	right=39
+left=23	right=40
+left=24	right=41
+left=25	right=42
+left=26	right=43
+left=27	right=44
+left=28	right=45
+left=29	right=46
+left=30	right=47
+left=31	right=48
+left=32	right=49
+left=33	right=50
+left=34	right=51
+left=35	right=52
+left=36	right=53
+left=37	right=54
+left=38	right=55
+left=39	right=56
+left=40	right=57
+left=41	right=58
+left=42	right=59
+left=43	right=60
+left=44	right=61
+left=45	right=62
+left=46	right=63
+left=47	right=64
+left=48	right=65
+left=49	right=66
+left=50	right=67
+left=51	right=68
+left=52	right=69
+left=53	right=70
+left=54	right=71
+left=55	right=72
+left=56	right=73
+left=57	right=74
+left=58	right=75
+left=59	right=76
+left=60	right=77
+left=61	right=78
+left=62	right=79
+left=63	right=80
+left=64	right=81
+left=65	right=82
+left=66	right=83
+left=67	right=84
+left=68	right=85
+left=69	right=86
+left=70	right=87
+left=71	right=88
+left=72	right=89
+left=73	right=90
+left=74	right=91
+left=75	right=92
+left=76	right=93
+left=77	right=94
+left=78	right=95
+left=79	right=96
+left=80	right=97
+left=81	right=98
+left=82	right=99
+left= 0	right=18
+left= 1	right=19
+left= 2	right=20
+left= 3	right=21
+left= 4	right=22
+left= 5	right=23
+left= 6	right=24
+left= 7	right=25
+left= 8	right=26
+left= 9	right=27
+left=10	right=28
+left=11	right=29
+left=12	right=30
+left=13	right=31
+left=14	right=32
+left=15	right=33
+left=16	right=34
+left=17	right=35
+left=18	right=36
+left=19	right=37
+left=20	right=38
+left=21	right=39
+left=22	right=40
+left=23	right=41
+left=24	right=42
+left=25	right=43
+left=26	right=44
+left=27	right=45
+left=28	right=46
+left=29	right=47
+left=30	right=48
+left=31	right=49
+left=32	right=50
+left=33	right=51
+left=34	right=52
+left=35	right=53
+left=36	right=54
+left=37	right=55
+left=38	right=56
+left=39	right=57
+left=40	right=58
+left=41	right=59
+left=42	right=60
+left=43	right=61
+left=44	right=62
+left=45	right=63
+left=46	right=64
+left=47	right=65
+left=48	right=66
+left=49	right=67
+left=50	right=68
+left=51	right=69
+left=52	right=70
+left=53	right=71
+left=54	right=72
+left=55	right=73
+left=56	right=74
+left=57	right=75
+left=58	right=76
+left=59	right=77
+left=60	right=78
+left=61	right=79
+left=62	right=80
+left=63	right=81
+left=64	right=82
+left=65	right=83
+left=66	right=84
+left=67	right=85
+left=68	right=86
+left=69	right=87
+left=70	right=88
+left=71	right=89
+left=72	right=90
+left=73	right=91
+left=74	right=92
+left=75	right=93
+left=76	right=94
+left=77	right=95
+left=78	right=96
+left=79	right=97
+left=80	right=98
+left=81	right=99
+left= 0	right=19
+left= 1	right=20
+left= 2	right=21
+left= 3	right=22
+left= 4	right=23
+left= 5	right=24
+left= 6	right=25
+left= 7	right=26
+left= 8	right=27
+left= 9	right=28
+left=10	right=29
+left=11	right=30
+left=12	right=31
+left=13	right=32
+left=14	right=33
+left=15	right=34
+left=16	right=35
+left=17	right=36
+left=18	right=37
+left=19	right=38
+left=20	right=39
+left=21	right=40
+left=22	right=41
+left=23	right=42
+left=24	right=43
+left=25	right=44
+left=26	right=45
+left=27	right=46
+left=28	right=47
+left=29	right=48
+left=30	right=49
+left=31	right=50
+left=32	right=51
+left=33	right=52
+left=34	right=53
+left=35	right=54
+left=36	right=55
+left=37	right=56
+left=38	right=57
+left=39	right=58
+left=40	right=59
+left=41	right=60
+left=42	right=61
+left=43	right=62
+left=44	right=63
+left=45	right=64
+left=46	right=65
+left=47	right=66
+left=48	right=67
+left=49	right=68
+left=50	right=69
+left=51	right=70
+left=52	right=71
+left=53	right=72
+left=54	right=73
+left=55	right=74
+left=56	right=75
+left=57	right=76
+left=58	right=77
+left=59	right=78
+left=60	right=79
+left=61	right=80
+left=62	right=81
+left=63	right=82
+left=64	right=83
+left=65	right=84
+left=66	right=85
+left=67	right=86
+left=68	right=87
+left=69	right=88
+left=70	right=89
+left=71	right=90
+left=72	right=91
+left=73	right=92
+left=74	right=93
+left=75	right=94
+left=76	right=95
+left=77	right=96
+left=78	right=97
+left=79	right=98
+left=80	right=99
+left= 0	right=20
+left= 1	right=21
+left= 2	right=22
+left= 3	right=23
+left= 4	right=24
+left= 5	right=25
+left= 6	right=26
+left= 7	right=27
+left= 8	right=28
+left= 9	right=29
+left=10	right=30
+left=11	right=31
+left=12	right=32
+left=13	right=33
+left=14	right=34
+left=15	right=35
+left=16	right=36
+left=17	right=37
+left=18	right=38
+left=19	right=39
+left=20	right=40
+left=21	right=41
+left=22	right=42
+left=23	right=43
+left=24	right=44
+left=25	right=45
+left=26	right=46
+left=27	right=47
+left=28	right=48
+left=29	right=49
+left=30	right=50
+left=31	right=51
+left=32	right=52
+left=33	right=53
+left=34	right=54
+left=35	right=55
+left=36	right=56
+left=37	right=57
+left=38	right=58
+left=39	right=59
+left=40	right=60
+left=41	right=61
+left=42	right=62
+left=43	right=63
+left=44	right=64
+left=45	right=65
+left=46	right=66
+left=47	right=67
+left=48	right=68
+left=49	right=69
+left=50	right=70
+left=51	right=71
+left=52	right=72
+left=53	right=73
+left=54	right=74
+left=55	right=75
+left=56	right=76
+left=57	right=77
+left=58	right=78
+left=59	right=79
+left=60	right=80
+left=61	right=81
+left=62	right=82
+left=63	right=83
+left=64	right=84
+left=65	right=85
+left=66	right=86
+left=67	right=87
+left=68	right=88
+left=69	right=89
+left=70	right=90
+left=71	right=91
+left=72	right=92
+left=73	right=93
+left=74	right=94
+left=75	right=95
+left=76	right=96
+left=77	right=97
+left=78	right=98
+left=79	right=99
+left= 0	right=21
+left= 1	right=22
+left= 2	right=23
+left= 3	right=24
+left= 4	right=25
+left= 5	right=26
+left= 6	right=27
+left= 7	right=28
+left= 8	right=29
+left= 9	right=30
+left=10	right=31
+left=11	right=32
+left=12	right=33
+left=13	right=34
+left=14	right=35
+left=15	right=36
+left=16	right=37
+left=17	right=38
+left=18	right=39
+left=19	right=40
+left=20	right=41
+left=21	right=42
+left=22	right=43
+left=23	right=44
+left=24	right=45
+left=25	right=46
+left=26	right=47
+left=27	right=48
+left=28	right=49
+left=29	right=50
+left=30	right=51
+left=31	right=52
+left=32	right=53
+left=33	right=54
+left=34	right=55
+left=35	right=56
+left=36	right=57
+left=37	right=58
+left=38	right=59
+left=39	right=60
+left=40	right=61
+left=41	right=62
+left=42	right=63
+left=43	right=64
+left=44	right=65
+left=45	right=66
+left=46	right=67
+left=47	right=68
+left=48	right=69
+left=49	right=70
+left=50	right=71
+left=51	right=72
+left=52	right=73
+left=53	right=74
+left=54	right=75
+left=55	right=76
+left=56	right=77
+left=57	right=78
+left=58	right=79
+left=59	right=80
+left=60	right=81
+left=61	right=82
+left=62	right=83
+left=63	right=84
+left=64	right=85
+left=65	right=86
+left=66	right=87
+left=67	right=88
+left=68	right=89
+left=69	right=90
+left=70	right=91
+left=71	right=92
+left=72	right=93
+left=73	right=94
+left=74	right=95
+left=75	right=96
+left=76	right=97
+left=77	right=98
+left=78	right=99
+left= 0	right=22
+left= 1	right=23
+left= 2	right=24
+left= 3	right=25
+left= 4	right=26
+left= 5	right=27
+left= 6	right=28
+left= 7	right=29
+left= 8	right=30
+left= 9	right=31
+left=10	right=32
+left=11	right=33
+left=12	right=34
+left=13	right=35
+left=14	right=36
+left=15	right=37
+left=16	right=38
+left=17	right=39
+left=18	right=40
+left=19	right=41
+left=20	right=42
+left=21	right=43
+left=22	right=44
+left=23	right=45
+left=24	right=46
+left=25	right=47
+left=26	right=48
+left=27	right=49
+left=28	right=50
+left=29	right=51
+left=30	right=52
+left=31	right=53
+left=32	right=54
+left=33	right=55
+left=34	right=56
+left=35	right=57
+left=36	right=58
+left=37	right=59
+left=38	right=60
+left=39	right=61
+left=40	right=62
+left=41	right=63
+left=42	right=64
+left=43	right=65
+left=44	right=66
+left=45	right=67
+left=46	right=68
+left=47	right=69
+left=48	right=70
+left=49	right=71
+left=50	right=72
+left=51	right=73
+left=52	right=74
+left=53	right=75
+left=54	right=76
+left=55	right=77
+left=56	right=78
+left=57	right=79
+left=58	right=80
+left=59	right=81
+left=60	right=82
+left=61	right=83
+left=62	right=84
+left=63	right=85
+left=64	right=86
+left=65	right=87
+left=66	right=88
+left=67	right=89
+left=68	right=90
+left=69	right=91
+left=70	right=92
+left=71	right=93
+left=72	right=94
+left=73	right=95
+left=74	right=96
+left=75	right=97
+left=76	right=98
+left=77	right=99
+left= 0	right=23
+left= 1	right=24
+left= 2	right=25
+left= 3	right=26
+left= 4	right=27
+left= 5	right=28
+left= 6	right=29
+left= 7	right=30
+left= 8	right=31
+left= 9	right=32
+left=10	right=33
+left=11	right=34
+left=12	right=35
+left=13	right=36
+left=14	right=37
+left=15	right=38
+left=16	right=39
+left=17	right=40
+left=18	right=41
+left=19	right=42
+left=20	right=43
+left=21	right=44
+left=22	right=45
+left=23	right=46
+left=24	right=47
+left=25	right=48
+left=26	right=49
+left=27	right=50
+left=28	right=51
+left=29	right=52
+left=30	right=53
+left=31	right=54
+left=32	right=55
+left=33	right=56
+left=34	right=57
+left=35	right=58
+left=36	right=59
+left=37	right=60
+left=38	right=61
+left=39	right=62
+left=40	right=63
+left=41	right=64
+left=42	right=65
+left=43	right=66
+left=44	right=67
+left=45	right=68
+left=46	right=69
+left=47	right=70
+left=48	right=71
+left=49	right=72
+left=50	right=73
+left=51	right=74
+left=52	right=75
+left=53	right=76
+left=54	right=77
+left=55	right=78
+left=56	right=79
+left=57	right=80
+left=58	right=81
+left=59	right=82
+left=60	right=83
+left=61	right=84
+left=62	right=85
+left=63	right=86
+left=64	right=87
+left=65	right=88
+left=66	right=89
+left=67	right=90
+left=68	right=91
+left=69	right=92
+left=70	right=93
+left=71	right=94
+left=72	right=95
+left=73	right=96
+left=74	right=97
+left=75	right=98
+left=76	right=99
+left= 0	right=24
+left= 1	right=25
+left= 2	right=26
+left= 3	right=27
+left= 4	right=28
+left= 5	right=29
+left= 6	right=30
+left= 7	right=31
+left= 8	right=32
+left= 9	right=33
+left=10	right=34
+left=11	right=35
+left=12	right=36
+left=13	right=37
+left=14	right=38
+left=15	right=39
+left=16	right=40
+left=17	right=41
+left=18	right=42
+left=19	right=43
+left=20	right=44
+left=21	right=45
+left=22	right=46
+left=23	right=47
+left=24	right=48
+left=25	right=49
+left=26	right=50
+left=27	right=51
+left=28	right=52
+left=29	right=53
+left=30	right=54
+left=31	right=55
+left=32	right=56
+left=33	right=57
+left=34	right=58
+left=35	right=59
+left=36	right=60
+left=37	right=61
+left=38	right=62
+left=39	right=63
+left=40	right=64
+left=41	right=65
+left=42	right=66
+left=43	right=67
+left=44	right=68
+left=45	right=69
+left=46	right=70
+left=47	right=71
+left=48	right=72
+left=49	right=73
+left=50	right=74
+left=51	right=75
+left=52	right=76
+left=53	right=77
+left=54	right=78
+left=55	right=79
+left=56	right=80
+left=57	right=81
+left=58	right=82
+left=59	right=83
+left=60	right=84
+left=61	right=85
+left=62	right=86
+left=63	right=87
+left=64	right=88
+left=65	right=89
+left=66	right=90
+left=67	right=91
+left=68	right=92
+left=69	right=93
+left=70	right=94
+left=71	right=95
+left=72	right=96
+left=73	right=97
+left=74	right=98
+left=75	right=99
+left= 0	right=25
+left= 1	right=26
+left= 2	right=27
+left= 3	right=28
+left= 4	right=29
+left= 5	right=30
+left= 6	right=31
+left= 7	right=32
+left= 8	right=33
+left= 9	right=34
+left=10	right=35
+left=11	right=36
+left=12	right=37
+left=13	right=38
+left=14	right=39
+left=15	right=40
+left=16	right=41
+left=17	right=42
+left=18	right=43
+left=19	right=44
+left=20	right=45
+left=21	right=46
+left=22	right=47
+left=23	right=48
+left=24	right=49
+left=25	right=50
+left=26	right=51
+left=27	right=52
+left=28	right=53
+left=29	right=54
+left=30	right=55
+left=31	right=56
+left=32	right=57
+left=33	right=58
+left=34	right=59
+left=35	right=60
+left=36	right=61
+left=37	right=62
+left=38	right=63
+left=39	right=64
+left=40	right=65
+left=41	right=66
+left=42	right=67
+left=43	right=68
+left=44	right=69
+left=45	right=70
+left=46	right=71
+left=47	right=72
+left=48	right=73
+left=49	right=74
+left=50	right=75
+left=51	right=76
+left=52	right=77
+left=53	right=78
+left=54	right=79
+left=55	right=80
+left=56	right=81
+left=57	right=82
+left=58	right=83
+left=59	right=84
+left=60	right=85
+left=61	right=86
+left=62	right=87
+left=63	right=88
+left=64	right=89
+left=65	right=90
+left=66	right=91
+left=67	right=92
+left=68	right=93
+left=69	right=94
+left=70	right=95
+left=71	right=96
+left=72	right=97
+left=73	right=98
+left=74	right=99
+left= 0	right=26
+left= 1	right=27
+left= 2	right=28
+left= 3	right=29
+left= 4	right=30
+left= 5	right=31
+left= 6	right=32
+left= 7	right=33
+left= 8	right=34
+left= 9	right=35
+left=10	right=36
+left=11	right=37
+left=12	right=38
+left=13	right=39
+left=14	right=40
+left=15	right=41
+left=16	right=42
+left=17	right=43
+left=18	right=44
+left=19	right=45
+left=20	right=46
+left=21	right=47
+left=22	right=48
+left=23	right=49
+left=24	right=50
+left=25	right=51
+left=26	right=52
+left=27	right=53
+left=28	right=54
+left=29	right=55
+left=30	right=56
+left=31	right=57
+left=32	right=58
+left=33	right=59
+left=34	right=60
+left=35	right=61
+left=36	right=62
+left=37	right=63
+left=38	right=64
+left=39	right=65
+left=40	right=66
+left=41	right=67
+left=42	right=68
+left=43	right=69
+left=44	right=70
+left=45	right=71
+left=46	right=72
+left=47	right=73
+left=48	right=74
+left=49	right=75
+left=50	right=76
+left=51	right=77
+left=52	right=78
+left=53	right=79
+left=54	right=80
+left=55	right=81
+left=56	right=82
+left=57	right=83
+left=58	right=84
+left=59	right=85
+left=60	right=86
+left=61	right=87
+left=62	right=88
+left=63	right=89
+left=64	right=90
+left=65	right=91
+left=66	right=92
+left=67	right=93
+left=68	right=94
+left=69	right=95
+left=70	right=96
+left=71	right=97
+left=72	right=98
+left=73	right=99
+left= 0	right=27
+left= 1	right=28
+left= 2	right=29
+left= 3	right=30
+left= 4	right=31
+left= 5	right=32
+left= 6	right=33
+left= 7	right=34
+left= 8	right=35
+left= 9	right=36
+left=10	right=37
+left=11	right=38
+left=12	right=39
+left=13	right=40
+left=14	right=41
+left=15	right=42
+left=16	right=43
+left=17	right=44
+left=18	right=45
+left=19	right=46
+left=20	right=47
+left=21	right=48
+left=22	right=49
+left=23	right=50
+left=24	right=51
+left=25	right=52
+left=26	right=53
+left=27	right=54
+left=28	right=55
+left=29	right=56
+left=30	right=57
+left=31	right=58
+left=32	right=59
+left=33	right=60
+left=34	right=61
+left=35	right=62
+left=36	right=63
+left=37	right=64
+left=38	right=65
+left=39	right=66
+left=40	right=67
+left=41	right=68
+left=42	right=69
+left=43	right=70
+left=44	right=71
+left=45	right=72
+left=46	right=73
+left=47	right=74
+left=48	right=75
+left=49	right=76
+left=50	right=77
+left=51	right=78
+left=52	right=79
+left=53	right=80
+left=54	right=81
+left=55	right=82
+left=56	right=83
+left=57	right=84
+left=58	right=85
+left=59	right=86
+left=60	right=87
+left=61	right=88
+left=62	right=89
+left=63	right=90
+left=64	right=91
+left=65	right=92
+left=66	right=93
+left=67	right=94
+left=68	right=95
+left=69	right=96
+left=70	right=97
+left=71	right=98
+left=72	right=99
+left= 0	right=28
+left= 1	right=29
+left= 2	right=30
+left= 3	right=31
+left= 4	right=32
+left= 5	right=33
+left= 6	right=34
+left= 7	right=35
+left= 8	right=36
+left= 9	right=37
+left=10	right=38
+left=11	right=39
+left=12	right=40
+left=13	right=41
+left=14	right=42
+left=15	right=43
+left=16	right=44
+left=17	right=45
+left=18	right=46
+left=19	right=47
+left=20	right=48
+left=21	right=49
+left=22	right=50
+left=23	right=51
+left=24	right=52
+left=25	right=53
+left=26	right=54
+left=27	right=55
+left=28	right=56
+left=29	right=57
+left=30	right=58
+left=31	right=59
+left=32	right=60
+left=33	right=61
+left=34	right=62
+left=35	right=63
+left=36	right=64
+left=37	right=65
+left=38	right=66
+left=39	right=67
+left=40	right=68
+left=41	right=69
+left=42	right=70
+left=43	right=71
+left=44	right=72
+left=45	right=73
+left=46	right=74
+left=47	right=75
+left=48	right=76
+left=49	right=77
+left=50	right=78
+left=51	right=79
+left=52	right=80
+left=53	right=81
+left=54	right=82
+left=55	right=83
+left=56	right=84
+left=57	right=85
+left=58	right=86
+left=59	right=87
+left=60	right=88
+left=61	right=89
+left=62	right=90
+left=63	right=91
+left=64	right=92
+left=65	right=93
+left=66	right=94
+left=67	right=95
+left=68	right=96
+left=69	right=97
+left=70	right=98
+left=71	right=99
+left= 0	right=29
+left= 1	right=30
+left= 2	right=31
+left= 3	right=32
+left= 4	right=33
+left= 5	right=34
+left= 6	right=35
+left= 7	right=36
+left= 8	right=37
+left= 9	right=38
+left=10	right=39
+left=11	right=40
+left=12	right=41
+left=13	right=42
+left=14	right=43
+left=15	right=44
+left=16	right=45
+left=17	right=46
+left=18	right=47
+left=19	right=48
+left=20	right=49
+left=21	right=50
+left=22	right=51
+left=23	right=52
+left=24	right=53
+left=25	right=54
+left=26	right=55
+left=27	right=56
+left=28	right=57
+left=29	right=58
+left=30	right=59
+left=31	right=60
+left=32	right=61
+left=33	right=62
+left=34	right=63
+left=35	right=64
+left=36	right=65
+left=37	right=66
+left=38	right=67
+left=39	right=68
+left=40	right=69
+left=41	right=70
+left=42	right=71
+left=43	right=72
+left=44	right=73
+left=45	right=74
+left=46	right=75
+left=47	right=76
+left=48	right=77
+left=49	right=78
+left=50	right=79
+left=51	right=80
+left=52	right=81
+left=53	right=82
+left=54	right=83
+left=55	right=84
+left=56	right=85
+left=57	right=86
+left=58	right=87
+left=59	right=88
+left=60	right=89
+left=61	right=90
+left=62	right=91
+left=63	right=92
+left=64	right=93
+left=65	right=94
+left=66	right=95
+left=67	right=96
+left=68	right=97
+left=69	right=98
+left=70	right=99
+left= 0	right=30
+left= 1	right=31
+left= 2	right=32
+left= 3	right=33
+left= 4	right=34
+left= 5	right=35
+left= 6	right=36
+left= 7	right=37
+left= 8	right=38
+left= 9	right=39
+left=10	right=40
+left=11	right=41
+left=12	right=42
+left=13	right=43
+left=14	right=44
+left=15	right=45
+left=16	right=46
+left=17	right=47
+left=18	right=48
+left=19	right=49
+left=20	right=50
+left=21	right=51
+left=22	right=52
+left=23	right=53
+left=24	right=54
+left=25	right=55
+left=26	right=56
+left=27	right=57
+left=28	right=58
+left=29	right=59
+left=30	right=60
+left=31	right=61
+left=32	right=62
+left=33	right=63
+left=34	right=64
+left=35	right=65
+left=36	right=66
+left=37	right=67
+left=38	right=68
+left=39	right=69
+left=40	right=70
+left=41	right=71
+left=42	right=72
+left=43	right=73
+left=44	right=74
+left=45	right=75
+left=46	right=76
+left=47	right=77
+left=48	right=78
+left=49	right=79
+left=50	right=80
+left=51	right=81
+left=52	right=82
+left=53	right=83
+left=54	right=84
+left=55	right=85
+left=56	right=86
+left=57	right=87
+left=58	right=88
+left=59	right=89
+left=60	right=90
+left=61	right=91
+left=62	right=92
+left=63	right=93
+left=64	right=94
+left=65	right=95
+left=66	right=96
+left=67	right=97
+left=68	right=98
+left=69	right=99
+left= 0	right=31
+left= 1	right=32
+left= 2	right=33
+left= 3	right=34
+left= 4	right=35
+left= 5	right=36
+left= 6	right=37
+left= 7	right=38
+left= 8	right=39
+left= 9	right=40
+left=10	right=41
+left=11	right=42
+left=12	right=43
+left=13	right=44
+left=14	right=45
+left=15	right=46
+left=16	right=47
+left=17	right=48
+left=18	right=49
+left=19	right=50
+left=20	right=51
+left=21	right=52
+left=22	right=53
+left=23	right=54
+left=24	right=55
+left=25	right=56
+left=26	right=57
+left=27	right=58
+left=28	right=59
+left=29	right=60
+left=30	right=61
+left=31	right=62
+left=32	right=63
+left=33	right=64
+left=34	right=65
+left=35	right=66
+left=36	right=67
+left=37	right=68
+left=38	right=69
+left=39	right=70
+left=40	right=71
+left=41	right=72
+left=42	right=73
+left=43	right=74
+left=44	right=75
+left=45	right=76
+left=46	right=77
+left=47	right=78
+left=48	right=79
+left=49	right=80
+left=50	right=81
+left=51	right=82
+left=52	right=83
+left=53	right=84
+left=54	right=85
+left=55	right=86
+left=56	right=87
+left=57	right=88
+left=58	right=89
+left=59	right=90
+left=60	right=91
+left=61	right=92
+left=62	right=93
+left=63	right=94
+left=64	right=95
+left=65	right=96
+left=66	right=97
+left=67	right=98
+left=68	right=99
+left= 0	right=32
+left= 1	right=33
+left= 2	right=34
+left= 3	right=35
+left= 4	right=36
+left= 5	right=37
+left= 6	right=38
+left= 7	right=39
+left= 8	right=40
+left= 9	right=41
+left=10	right=42
+left=11	right=43
+left=12	right=44
+left=13	right=45
+left=14	right=46
+left=15	right=47
+left=16	right=48
+left=17	right=49
+left=18	right=50
+left=19	right=51
+left=20	right=52
+left=21	right=53
+left=22	right=54
+left=23	right=55
+left=24	right=56
+left=25	right=57
+left=26	right=58
+left=27	right=59
+left=28	right=60
+left=29	right=61
+left=30	right=62
+left=31	right=63
+left=32	right=64
+left=33	right=65
+left=34	right=66
+left=35	right=67
+left=36	right=68
+left=37	right=69
+left=38	right=70
+left=39	right=71
+left=40	right=72
+left=41	right=73
+left=42	right=74
+left=43	right=75
+left=44	right=76
+left=45	right=77
+left=46	right=78
+left=47	right=79
+left=48	right=80
+left=49	right=81
+left=50	right=82
+left=51	right=83
+left=52	right=84
+left=53	right=85
+left=54	right=86
+left=55	right=87
+left=56	right=88
+left=57	right=89
+left=58	right=90
+left=59	right=91
+left=60	right=92
+left=61	right=93
+left=62	right=94
+left=63	right=95
+left=64	right=96
+left=65	right=97
+left=66	right=98
+left=67	right=99
+left= 0	right=33
+left= 1	right=34
+left= 2	right=35
+left= 3	right=36
+left= 4	right=37
+left= 5	right=38
+left= 6	right=39
+left= 7	right=40
+left= 8	right=41
+left= 9	right=42
+left=10	right=43
+left=11	right=44
+left=12	right=45
+left=13	right=46
+left=14	right=47
+left=15	right=48
+left=16	right=49
+left=17	right=50
+left=18	right=51
+left=19	right=52
+left=20	right=53
+left=21	right=54
+left=22	right=55
+left=23	right=56
+left=24	right=57
+left=25	right=58
+left=26	right=59
+left=27	right=60
+left=28	right=61
+left=29	right=62
+left=30	right=63
+left=31	right=64
+left=32	right=65
+left=33	right=66
+left=34	right=67
+left=35	right=68
+left=36	right=69
+left=37	right=70
+left=38	right=71
+left=39	right=72
+left=40	right=73
+left=41	right=74
+left=42	right=75
+left=43	right=76
+left=44	right=77
+left=45	right=78
+left=46	right=79
+left=47	right=80
+left=48	right=81
+left=49	right=82
+left=50	right=83
+left=51	right=84
+left=52	right=85
+left=53	right=86
+left=54	right=87
+left=55	right=88
+left=56	right=89
+left=57	right=90
+left=58	right=91
+left=59	right=92
+left=60	right=93
+left=61	right=94
+left=62	right=95
+left=63	right=96
+left=64	right=97
+left=65	right=98
+left=66	right=99
+left= 0	right=34
+left= 1	right=35
+left= 2	right=36
+left= 3	right=37
+left= 4	right=38
+left= 5	right=39
+left= 6	right=40
+left= 7	right=41
+left= 8	right=42
+left= 9	right=43
+left=10	right=44
+left=11	right=45
+left=12	right=46
+left=13	right=47
+left=14	right=48
+left=15	right=49
+left=16	right=50
+left=17	right=51
+left=18	right=52
+left=19	right=53
+left=20	right=54
+left=21	right=55
+left=22	right=56
+left=23	right=57
+left=24	right=58
+left=25	right=59
+left=26	right=60
+left=27	right=61
+left=28	right=62
+left=29	right=63
+left=30	right=64
+left=31	right=65
+left=32	right=66
+left=33	right=67
+left=34	right=68
+left=35	right=69
+left=36	right=70
+left=37	right=71
+left=38	right=72
+left=39	right=73
+left=40	right=74
+left=41	right=75
+left=42	right=76
+left=43	right=77
+left=44	right=78
+left=45	right=79
+left=46	right=80
+left=47	right=81
+left=48	right=82
+left=49	right=83
+left=50	right=84
+left=51	right=85
+left=52	right=86
+left=53	right=87
+left=54	right=88
+left=55	right=89
+left=56	right=90
+left=57	right=91
+left=58	right=92
+left=59	right=93
+left=60	right=94
+left=61	right=95
+left=62	right=96
+left=63	right=97
+left=64	right=98
+left=65	right=99
+left= 0	right=35
+left= 1	right=36
+left= 2	right=37
+left= 3	right=38
+left= 4	right=39
+left= 5	right=40
+left= 6	right=41
+left= 7	right=42
+left= 8	right=43
+left= 9	right=44
+left=10	right=45
+left=11	right=46
+left=12	right=47
+left=13	right=48
+left=14	right=49
+left=15	right=50
+left=16	right=51
+left=17	right=52
+left=18	right=53
+left=19	right=54
+left=20	right=55
+left=21	right=56
+left=22	right=57
+left=23	right=58
+left=24	right=59
+left=25	right=60
+left=26	right=61
+left=27	right=62
+left=28	right=63
+left=29	right=64
+left=30	right=65
+left=31	right=66
+left=32	right=67
+left=33	right=68
+left=34	right=69
+left=35	right=70
+left=36	right=71
+left=37	right=72
+left=38	right=73
+left=39	right=74
+left=40	right=75
+left=41	right=76
+left=42	right=77
+left=43	right=78
+left=44	right=79
+left=45	right=80
+left=46	right=81
+left=47	right=82
+left=48	right=83
+left=49	right=84
+left=50	right=85
+left=51	right=86
+left=52	right=87
+left=53	right=88
+left=54	right=89
+left=55	right=90
+left=56	right=91
+left=57	right=92
+left=58	right=93
+left=59	right=94
+left=60	right=95
+left=61	right=96
+left=62	right=97
+left=63	right=98
+left=64	right=99
+left= 0	right=36
+left= 1	right=37
+left= 2	right=38
+left= 3	right=39
+left= 4	right=40
+left= 5	right=41
+left= 6	right=42
+left= 7	right=43
+left= 8	right=44
+left= 9	right=45
+left=10	right=46
+left=11	right=47
+left=12	right=48
+left=13	right=49
+left=14	right=50
+left=15	right=51
+left=16	right=52
+left=17	right=53
+left=18	right=54
+left=19	right=55
+left=20	right=56
+left=21	right=57
+left=22	right=58
+left=23	right=59
+left=24	right=60
+left=25	right=61
+left=26	right=62
+left=27	right=63
+left=28	right=64
+left=29	right=65
+left=30	right=66
+left=31	right=67
+left=32	right=68
+left=33	right=69
+left=34	right=70
+left=35	right=71
+left=36	right=72
+left=37	right=73
+left=38	right=74
+left=39	right=75
+left=40	right=76
+left=41	right=77
+left=42	right=78
+left=43	right=79
+left=44	right=80
+left=45	right=81
+left=46	right=82
+left=47	right=83
+left=48	right=84
+left=49	right=85
+left=50	right=86
+left=51	right=87
+left=52	right=88
+left=53	right=89
+left=54	right=90
+left=55	right=91
+left=56	right=92
+left=57	right=93
+left=58	right=94
+left=59	right=95
+left=60	right=96
+left=61	right=97
+left=62	right=98
+left=63	right=99
+left= 0	right=37
+left= 1	right=38
+left= 2	right=39
+left= 3	right=40
+left= 4	right=41
+left= 5	right=42
+left= 6	right=43
+left= 7	right=44
+left= 8	right=45
+left= 9	right=46
+left=10	right=47
+left=11	right=48
+left=12	right=49
+left=13	right=50
+left=14	right=51
+left=15	right=52
+left=16	right=53
+left=17	right=54
+left=18	right=55
+left=19	right=56
+left=20	right=57
+left=21	right=58
+left=22	right=59
+left=23	right=60
+left=24	right=61
+left=25	right=62
+left=26	right=63
+left=27	right=64
+left=28	right=65
+left=29	right=66
+left=30	right=67
+left=31	right=68
+left=32	right=69
+left=33	right=70
+left=34	right=71
+left=35	right=72
+left=36	right=73
+left=37	right=74
+left=38	right=75
+left=39	right=76
+left=40	right=77
+left=41	right=78
+left=42	right=79
+left=43	right=80
+left=44	right=81
+left=45	right=82
+left=46	right=83
+left=47	right=84
+left=48	right=85
+left=49	right=86
+left=50	right=87
+left=51	right=88
+left=52	right=89
+left=53	right=90
+left=54	right=91
+left=55	right=92
+left=56	right=93
+left=57	right=94
+left=58	right=95
+left=59	right=96
+left=60	right=97
+left=61	right=98
+left=62	right=99
+left= 0	right=38
+left= 1	right=39
+left= 2	right=40
+left= 3	right=41
+left= 4	right=42
+left= 5	right=43
+left= 6	right=44
+left= 7	right=45
+left= 8	right=46
+left= 9	right=47
+left=10	right=48
+left=11	right=49
+left=12	right=50
+left=13	right=51
+left=14	right=52
+left=15	right=53
+left=16	right=54
+left=17	right=55
+left=18	right=56
+left=19	right=57
+left=20	right=58
+left=21	right=59
+left=22	right=60
+left=23	right=61
+left=24	right=62
+left=25	right=63
+left=26	right=64
+left=27	right=65
+left=28	right=66
+left=29	right=67
+left=30	right=68
+left=31	right=69
+left=32	right=70
+left=33	right=71
+left=34	right=72
+left=35	right=73
+left=36	right=74
+left=37	right=75
+left=38	right=76
+left=39	right=77
+left=40	right=78
+left=41	right=79
+left=42	right=80
+left=43	right=81
+left=44	right=82
+left=45	right=83
+left=46	right=84
+left=47	right=85
+left=48	right=86
+left=49	right=87
+left=50	right=88
+left=51	right=89
+left=52	right=90
+left=53	right=91
+left=54	right=92
+left=55	right=93
+left=56	right=94
+left=57	right=95
+left=58	right=96
+left=59	right=97
+left=60	right=98
+left=61	right=99
+left= 0	right=39
+left= 1	right=40
+left= 2	right=41
+left= 3	right=42
+left= 4	right=43
+left= 5	right=44
+left= 6	right=45
+left= 7	right=46
+left= 8	right=47
+left= 9	right=48
+left=10	right=49
+left=11	right=50
+left=12	right=51
+left=13	right=52
+left=14	right=53
+left=15	right=54
+left=16	right=55
+left=17	right=56
+left=18	right=57
+left=19	right=58
+left=20	right=59
+left=21	right=60
+left=22	right=61
+left=23	right=62
+left=24	right=63
+left=25	right=64
+left=26	right=65
+left=27	right=66
+left=28	right=67
+left=29	right=68
+left=30	right=69
+left=31	right=70
+left=32	right=71
+left=33	right=72
+left=34	right=73
+left=35	right=74
+left=36	right=75
+left=37	right=76
+left=38	right=77
+left=39	right=78
+left=40	right=79
+left=41	right=80
+left=42	right=81
+left=43	right=82
+left=44	right=83
+left=45	right=84
+left=46	right=85
+left=47	right=86
+left=48	right=87
+left=49	right=88
+left=50	right=89
+left=51	right=90
+left=52	right=91
+left=53	right=92
+left=54	right=93
+left=55	right=94
+left=56	right=95
+left=57	right=96
+left=58	right=97
+left=59	right=98
+left=60	right=99
+left= 0	right=40
+left= 1	right=41
+left= 2	right=42
+left= 3	right=43
+left= 4	right=44
+left= 5	right=45
+left= 6	right=46
+left= 7	right=47
+left= 8	right=48
+left= 9	right=49
+left=10	right=50
+left=11	right=51
+left=12	right=52
+left=13	right=53
+left=14	right=54
+left=15	right=55
+left=16	right=56
+left=17	right=57
+left=18	right=58
+left=19	right=59
+left=20	right=60
+left=21	right=61
+left=22	right=62
+left=23	right=63
+left=24	right=64
+left=25	right=65
+left=26	right=66
+left=27	right=67
+left=28	right=68
+left=29	right=69
+left=30	right=70
+left=31	right=71
+left=32	right=72
+left=33	right=73
+left=34	right=74
+left=35	right=75
+left=36	right=76
+left=37	right=77
+left=38	right=78
+left=39	right=79
+left=40	right=80
+left=41	right=81
+left=42	right=82
+left=43	right=83
+left=44	right=84
+left=45	right=85
+left=46	right=86
+left=47	right=87
+left=48	right=88
+left=49	right=89
+left=50	right=90
+left=51	right=91
+left=52	right=92
+left=53	right=93
+left=54	right=94
+left=55	right=95
+left=56	right=96
+left=57	right=97
+left=58	right=98
+left=59	right=99
+left= 0	right=41
+left= 1	right=42
+left= 2	right=43
+left= 3	right=44
+left= 4	right=45
+left= 5	right=46
+left= 6	right=47
+left= 7	right=48
+left= 8	right=49
+left= 9	right=50
+left=10	right=51
+left=11	right=52
+left=12	right=53
+left=13	right=54
+left=14	right=55
+left=15	right=56
+left=16	right=57
+left=17	right=58
+left=18	right=59
+left=19	right=60
+left=20	right=61
+left=21	right=62
+left=22	right=63
+left=23	right=64
+left=24	right=65
+left=25	right=66
+left=26	right=67
+left=27	right=68
+left=28	right=69
+left=29	right=70
+left=30	right=71
+left=31	right=72
+left=32	right=73
+left=33	right=74
+left=34	right=75
+left=35	right=76
+left=36	right=77
+left=37	right=78
+left=38	right=79
+left=39	right=80
+left=40	right=81
+left=41	right=82
+left=42	right=83
+left=43	right=84
+left=44	right=85
+left=45	right=86
+left=46	right=87
+left=47	right=88
+left=48	right=89
+left=49	right=90
+left=50	right=91
+left=51	right=92
+left=52	right=93
+left=53	right=94
+left=54	right=95
+left=55	right=96
+left=56	right=97
+left=57	right=98
+left=58	right=99
+left= 0	right=42
+left= 1	right=43
+left= 2	right=44
+left= 3	right=45
+left= 4	right=46
+left= 5	right=47
+left= 6	right=48
+left= 7	right=49
+left= 8	right=50
+left= 9	right=51
+left=10	right=52
+left=11	right=53
+left=12	right=54
+left=13	right=55
+left=14	right=56
+left=15	right=57
+left=16	right=58
+left=17	right=59
+left=18	right=60
+left=19	right=61
+left=20	right=62
+left=21	right=63
+left=22	right=64
+left=23	right=65
+left=24	right=66
+left=25	right=67
+left=26	right=68
+left=27	right=69
+left=28	right=70
+left=29	right=71
+left=30	right=72
+left=31	right=73
+left=32	right=74
+left=33	right=75
+left=34	right=76
+left=35	right=77
+left=36	right=78
+left=37	right=79
+left=38	right=80
+left=39	right=81
+left=40	right=82
+left=41	right=83
+left=42	right=84
+left=43	right=85
+left=44	right=86
+left=45	right=87
+left=46	right=88
+left=47	right=89
+left=48	right=90
+left=49	right=91
+left=50	right=92
+left=51	right=93
+left=52	right=94
+left=53	right=95
+left=54	right=96
+left=55	right=97
+left=56	right=98
+left=57	right=99
+left= 0	right=43
+left= 1	right=44
+left= 2	right=45
+left= 3	right=46
+left= 4	right=47
+left= 5	right=48
+left= 6	right=49
+left= 7	right=50
+left= 8	right=51
+left= 9	right=52
+left=10	right=53
+left=11	right=54
+left=12	right=55
+left=13	right=56
+left=14	right=57
+left=15	right=58
+left=16	right=59
+left=17	right=60
+left=18	right=61
+left=19	right=62
+left=20	right=63
+left=21	right=64
+left=22	right=65
+left=23	right=66
+left=24	right=67
+left=25	right=68
+left=26	right=69
+left=27	right=70
+left=28	right=71
+left=29	right=72
+left=30	right=73
+left=31	right=74
+left=32	right=75
+left=33	right=76
+left=34	right=77
+left=35	right=78
+left=36	right=79
+left=37	right=80
+left=38	right=81
+left=39	right=82
+left=40	right=83
+left=41	right=84
+left=42	right=85
+left=43	right=86
+left=44	right=87
+left=45	right=88
+left=46	right=89
+left=47	right=90
+left=48	right=91
+left=49	right=92
+left=50	right=93
+left=51	right=94
+left=52	right=95
+left=53	right=96
+left=54	right=97
+left=55	right=98
+left=56	right=99
+left= 0	right=44
+left= 1	right=45
+left= 2	right=46
+left= 3	right=47
+left= 4	right=48
+left= 5	right=49
+left= 6	right=50
+left= 7	right=51
+left= 8	right=52
+left= 9	right=53
+left=10	right=54
+left=11	right=55
+left=12	right=56
+left=13	right=57
+left=14	right=58
+left=15	right=59
+left=16	right=60
+left=17	right=61
+left=18	right=62
+left=19	right=63
+left=20	right=64
+left=21	right=65
+left=22	right=66
+left=23	right=67
+left=24	right=68
+left=25	right=69
+left=26	right=70
+left=27	right=71
+left=28	right=72
+left=29	right=73
+left=30	right=74
+left=31	right=75
+left=32	right=76
+left=33	right=77
+left=34	right=78
+left=35	right=79
+left=36	right=80
+left=37	right=81
+left=38	right=82
+left=39	right=83
+left=40	right=84
+left=41	right=85
+left=42	right=86
+left=43	right=87
+left=44	right=88
+left=45	right=89
+left=46	right=90
+left=47	right=91
+left=48	right=92
+left=49	right=93
+left=50	right=94
+left=51	right=95
+left=52	right=96
+left=53	right=97
+left=54	right=98
+left=55	right=99
+left= 0	right=45
+left= 1	right=46
+left= 2	right=47
+left= 3	right=48
+left= 4	right=49
+left= 5	right=50
+left= 6	right=51
+left= 7	right=52
+left= 8	right=53
+left= 9	right=54
+left=10	right=55
+left=11	right=56
+left=12	right=57
+left=13	right=58
+left=14	right=59
+left=15	right=60
+left=16	right=61
+left=17	right=62
+left=18	right=63
+left=19	right=64
+left=20	right=65
+left=21	right=66
+left=22	right=67
+left=23	right=68
+left=24	right=69
+left=25	right=70
+left=26	right=71
+left=27	right=72
+left=28	right=73
+left=29	right=74
+left=30	right=75
+left=31	right=76
+left=32	right=77
+left=33	right=78
+left=34	right=79
+left=35	right=80
+left=36	right=81
+left=37	right=82
+left=38	right=83
+left=39	right=84
+left=40	right=85
+left=41	right=86
+left=42	right=87
+left=43	right=88
+left=44	right=89
+left=45	right=90
+left=46	right=91
+left=47	right=92
+left=48	right=93
+left=49	right=94
+left=50	right=95
+left=51	right=96
+left=52	right=97
+left=53	right=98
+left=54	right=99
+left= 0	right=46
+left= 1	right=47
+left= 2	right=48
+left= 3	right=49
+left= 4	right=50
+left= 5	right=51
+left= 6	right=52
+left= 7	right=53
+left= 8	right=54
+left= 9	right=55
+left=10	right=56
+left=11	right=57
+left=12	right=58
+left=13	right=59
+left=14	right=60
+left=15	right=61
+left=16	right=62
+left=17	right=63
+left=18	right=64
+left=19	right=65
+left=20	right=66
+left=21	right=67
+left=22	right=68
+left=23	right=69
+left=24	right=70
+left=25	right=71
+left=26	right=72
+left=27	right=73
+left=28	right=74
+left=29	right=75
+left=30	right=76
+left=31	right=77
+left=32	right=78
+left=33	right=79
+left=34	right=80
+left=35	right=81
+left=36	right=82
+left=37	right=83
+left=38	right=84
+left=39	right=85
+left=40	right=86
+left=41	right=87
+left=42	right=88
+left=43	right=89
+left=44	right=90
+left=45	right=91
+left=46	right=92
+left=47	right=93
+left=48	right=94
+left=49	right=95
+left=50	right=96
+left=51	right=97
+left=52	right=98
+left=53	right=99
+left= 0	right=47
+left= 1	right=48
+left= 2	right=49
+left= 3	right=50
+left= 4	right=51
+left= 5	right=52
+left= 6	right=53
+left= 7	right=54
+left= 8	right=55
+left= 9	right=56
+left=10	right=57
+left=11	right=58
+left=12	right=59
+left=13	right=60
+left=14	right=61
+left=15	right=62
+left=16	right=63
+left=17	right=64
+left=18	right=65
+left=19	right=66
+left=20	right=67
+left=21	right=68
+left=22	right=69
+left=23	right=70
+left=24	right=71
+left=25	right=72
+left=26	right=73
+left=27	right=74
+left=28	right=75
+left=29	right=76
+left=30	right=77
+left=31	right=78
+left=32	right=79
+left=33	right=80
+left=34	right=81
+left=35	right=82
+left=36	right=83
+left=37	right=84
+left=38	right=85
+left=39	right=86
+left=40	right=87
+left=41	right=88
+left=42	right=89
+left=43	right=90
+left=44	right=91
+left=45	right=92
+left=46	right=93
+left=47	right=94
+left=48	right=95
+left=49	right=96
+left=50	right=97
+left=51	right=98
+left=52	right=99
+left= 0	right=48
+left= 1	right=49
+left= 2	right=50
+left= 3	right=51
+left= 4	right=52
+left= 5	right=53
+left= 6	right=54
+left= 7	right=55
+left= 8	right=56
+left= 9	right=57
+left=10	right=58
+left=11	right=59
+left=12	right=60
+left=13	right=61
+left=14	right=62
+left=15	right=63
+left=16	right=64
+left=17	right=65
+left=18	right=66
+left=19	right=67
+left=20	right=68
+left=21	right=69
+left=22	right=70
+left=23	right=71
+left=24	right=72
+left=25	right=73
+left=26	right=74
+left=27	right=75
+left=28	right=76
+left=29	right=77
+left=30	right=78
+left=31	right=79
+left=32	right=80
+left=33	right=81
+left=34	right=82
+left=35	right=83
+left=36	right=84
+left=37	right=85
+left=38	right=86
+left=39	right=87
+left=40	right=88
+left=41	right=89
+left=42	right=90
+left=43	right=91
+left=44	right=92
+left=45	right=93
+left=46	right=94
+left=47	right=95
+left=48	right=96
+left=49	right=97
+left=50	right=98
+left=51	right=99
+left= 0	right=49
+left= 1	right=50
+left= 2	right=51
+left= 3	right=52
+left= 4	right=53
+left= 5	right=54
+left= 6	right=55
+left= 7	right=56
+left= 8	right=57
+left= 9	right=58
+left=10	right=59
+left=11	right=60
+left=12	right=61
+left=13	right=62
+left=14	right=63
+left=15	right=64
+left=16	right=65
+left=17	right=66
+left=18	right=67
+left=19	right=68
+left=20	right=69
+left=21	right=70
+left=22	right=71
+left=23	right=72
+left=24	right=73
+left=25	right=74
+left=26	right=75
+left=27	right=76
+left=28	right=77
+left=29	right=78
+left=30	right=79
+left=31	right=80
+left=32	right=81
+left=33	right=82
+left=34	right=83
+left=35	right=84
+left=36	right=85
+left=37	right=86
+left=38	right=87
+left=39	right=88
+left=40	right=89
+left=41	right=90
+left=42	right=91
+left=43	right=92
+left=44	right=93
+left=45	right=94
+left=46	right=95
+left=47	right=96
+left=48	right=97
+left=49	right=98
+left=50	right=99
+left= 0	right=50
+left= 1	right=51
+left= 2	right=52
+left= 3	right=53
+left= 4	right=54
+left= 5	right=55
+left= 6	right=56
+left= 7	right=57
+left= 8	right=58
+left= 9	right=59
+left=10	right=60
+left=11	right=61
+left=12	right=62
+left=13	right=63
+left=14	right=64
+left=15	right=65
+left=16	right=66
+left=17	right=67
+left=18	right=68
+left=19	right=69
+left=20	right=70
+left=21	right=71
+left=22	right=72
+left=23	right=73
+left=24	right=74
+left=25	right=75
+left=26	right=76
+left=27	right=77
+left=28	right=78
+left=29	right=79
+left=30	right=80
+left=31	right=81
+left=32	right=82
+left=33	right=83
+left=34	right=84
+left=35	right=85
+left=36	right=86
+left=37	right=87
+left=38	right=88
+left=39	right=89
+left=40	right=90
+left=41	right=91
+left=42	right=92
+left=43	right=93
+left=44	right=94
+left=45	right=95
+left=46	right=96
+left=47	right=97
+left=48	right=98
+left=49	right=99
+left= 0	right=51
+left= 1	right=52
+left= 2	right=53
+left= 3	right=54
+left= 4	right=55
+left= 5	right=56
+left= 6	right=57
+left= 7	right=58
+left= 8	right=59
+left= 9	right=60
+left=10	right=61
+left=11	right=62
+left=12	right=63
+left=13	right=64
+left=14	right=65
+left=15	right=66
+left=16	right=67
+left=17	right=68
+left=18	right=69
+left=19	right=70
+left=20	right=71
+left=21	right=72
+left=22	right=73
+left=23	right=74
+left=24	right=75
+left=25	right=76
+left=26	right=77
+left=27	right=78
+left=28	right=79
+left=29	right=80
+left=30	right=81
+left=31	right=82
+left=32	right=83
+left=33	right=84
+left=34	right=85
+left=35	right=86
+left=36	right=87
+left=37	right=88
+left=38	right=89
+left=39	right=90
+left=40	right=91
+left=41	right=92
+left=42	right=93
+left=43	right=94
+left=44	right=95
+left=45	right=96
+left=46	right=97
+left=47	right=98
+left=48	right=99
+left= 0	right=52
+left= 1	right=53
+left= 2	right=54
+left= 3	right=55
+left= 4	right=56
+left= 5	right=57
+left= 6	right=58
+left= 7	right=59
+left= 8	right=60
+left= 9	right=61
+left=10	right=62
+left=11	right=63
+left=12	right=64
+left=13	right=65
+left=14	right=66
+left=15	right=67
+left=16	right=68
+left=17	right=69
+left=18	right=70
+left=19	right=71
+left=20	right=72
+left=21	right=73
+left=22	right=74
+left=23	right=75
+left=24	right=76
+left=25	right=77
+left=26	right=78
+left=27	right=79
+left=28	right=80
+left=29	right=81
+left=30	right=82
+left=31	right=83
+left=32	right=84
+left=33	right=85
+left=34	right=86
+left=35	right=87
+left=36	right=88
+left=37	right=89
+left=38	right=90
+left=39	right=91
+left=40	right=92
+left=41	right=93
+left=42	right=94
+left=43	right=95
+left=44	right=96
+left=45	right=97
+left=46	right=98
+left=47	right=99
+left= 0	right=53
+left= 1	right=54
+left= 2	right=55
+left= 3	right=56
+left= 4	right=57
+left= 5	right=58
+left= 6	right=59
+left= 7	right=60
+left= 8	right=61
+left= 9	right=62
+left=10	right=63
+left=11	right=64
+left=12	right=65
+left=13	right=66
+left=14	right=67
+left=15	right=68
+left=16	right=69
+left=17	right=70
+left=18	right=71
+left=19	right=72
+left=20	right=73
+left=21	right=74
+left=22	right=75
+left=23	right=76
+left=24	right=77
+left=25	right=78
+left=26	right=79
+left=27	right=80
+left=28	right=81
+left=29	right=82
+left=30	right=83
+left=31	right=84
+left=32	right=85
+left=33	right=86
+left=34	right=87
+left=35	right=88
+left=36	right=89
+left=37	right=90
+left=38	right=91
+left=39	right=92
+left=40	right=93
+left=41	right=94
+left=42	right=95
+left=43	right=96
+left=44	right=97
+left=45	right=98
+left=46	right=99
+left= 0	right=54
+left= 1	right=55
+left= 2	right=56
+left= 3	right=57
+left= 4	right=58
+left= 5	right=59
+left= 6	right=60
+left= 7	right=61
+left= 8	right=62
+left= 9	right=63
+left=10	right=64
+left=11	right=65
+left=12	right=66
+left=13	right=67
+left=14	right=68
+left=15	right=69
+left=16	right=70
+left=17	right=71
+left=18	right=72
+left=19	right=73
+left=20	right=74
+left=21	right=75
+left=22	right=76
+left=23	right=77
+left=24	right=78
+left=25	right=79
+left=26	right=80
+left=27	right=81
+left=28	right=82
+left=29	right=83
+left=30	right=84
+left=31	right=85
+left=32	right=86
+left=33	right=87
+left=34	right=88
+left=35	right=89
+left=36	right=90
+left=37	right=91
+left=38	right=92
+left=39	right=93
+left=40	right=94
+left=41	right=95
+left=42	right=96
+left=43	right=97
+left=44	right=98
+left=45	right=99
+left= 0	right=55
+left= 1	right=56
+left= 2	right=57
+left= 3	right=58
+left= 4	right=59
+left= 5	right=60
+left= 6	right=61
+left= 7	right=62
+left= 8	right=63
+left= 9	right=64
+left=10	right=65
+left=11	right=66
+left=12	right=67
+left=13	right=68
+left=14	right=69
+left=15	right=70
+left=16	right=71
+left=17	right=72
+left=18	right=73
+left=19	right=74
+left=20	right=75
+left=21	right=76
+left=22	right=77
+left=23	right=78
+left=24	right=79
+left=25	right=80
+left=26	right=81
+left=27	right=82
+left=28	right=83
+left=29	right=84
+left=30	right=85
+left=31	right=86
+left=32	right=87
+left=33	right=88
+left=34	right=89
+left=35	right=90
+left=36	right=91
+left=37	right=92
+left=38	right=93
+left=39	right=94
+left=40	right=95
+left=41	right=96
+left=42	right=97
+left=43	right=98
+left=44	right=99
+left= 0	right=56
+left= 1	right=57
+left= 2	right=58
+left= 3	right=59
+left= 4	right=60
+left= 5	right=61
+left= 6	right=62
+left= 7	right=63
+left= 8	right=64
+left= 9	right=65
+left=10	right=66
+left=11	right=67
+left=12	right=68
+left=13	right=69
+left=14	right=70
+left=15	right=71
+left=16	right=72
+left=17	right=73
+left=18	right=74
+left=19	right=75
+left=20	right=76
+left=21	right=77
+left=22	right=78
+left=23	right=79
+left=24	right=80
+left=25	right=81
+left=26	right=82
+left=27	right=83
+left=28	right=84
+left=29	right=85
+left=30	right=86
+left=31	right=87
+left=32	right=88
+left=33	right=89
+left=34	right=90
+left=35	right=91
+left=36	right=92
+left=37	right=93
+left=38	right=94
+left=39	right=95
+left=40	right=96
+left=41	right=97
+left=42	right=98
+left=43	right=99
+left= 0	right=57
+left= 1	right=58
+left= 2	right=59
+left= 3	right=60
+left= 4	right=61
+left= 5	right=62
+left= 6	right=63
+left= 7	right=64
+left= 8	right=65
+left= 9	right=66
+left=10	right=67
+left=11	right=68
+left=12	right=69
+left=13	right=70
+left=14	right=71
+left=15	right=72
+left=16	right=73
+left=17	right=74
+left=18	right=75
+left=19	right=76
+left=20	right=77
+left=21	right=78
+left=22	right=79
+left=23	right=80
+left=24	right=81
+left=25	right=82
+left=26	right=83
+left=27	right=84
+left=28	right=85
+left=29	right=86
+left=30	right=87
+left=31	right=88
+left=32	right=89
+left=33	right=90
+left=34	right=91
+left=35	right=92
+left=36	right=93
+left=37	right=94
+left=38	right=95
+left=39	right=96
+left=40	right=97
+left=41	right=98
+left=42	right=99
+left= 0	right=58
+left= 1	right=59
+left= 2	right=60
+left= 3	right=61
+left= 4	right=62
+left= 5	right=63
+left= 6	right=64
+left= 7	right=65
+left= 8	right=66
+left= 9	right=67
+left=10	right=68
+left=11	right=69
+left=12	right=70
+left=13	right=71
+left=14	right=72
+left=15	right=73
+left=16	right=74
+left=17	right=75
+left=18	right=76
+left=19	right=77
+left=20	right=78
+left=21	right=79
+left=22	right=80
+left=23	right=81
+left=24	right=82
+left=25	right=83
+left=26	right=84
+left=27	right=85
+left=28	right=86
+left=29	right=87
+left=30	right=88
+left=31	right=89
+left=32	right=90
+left=33	right=91
+left=34	right=92
+left=35	right=93
+left=36	right=94
+left=37	right=95
+left=38	right=96
+left=39	right=97
+left=40	right=98
+left=41	right=99
+left= 0	right=59
+left= 1	right=60
+left= 2	right=61
+left= 3	right=62
+left= 4	right=63
+left= 5	right=64
+left= 6	right=65
+left= 7	right=66
+left= 8	right=67
+left= 9	right=68
+left=10	right=69
+left=11	right=70
+left=12	right=71
+left=13	right=72
+left=14	right=73
+left=15	right=74
+left=16	right=75
+left=17	right=76
+left=18	right=77
+left=19	right=78
+left=20	right=79
+left=21	right=80
+left=22	right=81
+left=23	right=82
+left=24	right=83
+left=25	right=84
+left=26	right=85
+left=27	right=86
+left=28	right=87
+left=29	right=88
+left=30	right=89
+left=31	right=90
+left=32	right=91
+left=33	right=92
+left=34	right=93
+left=35	right=94
+left=36	right=95
+left=37	right=96
+left=38	right=97
+left=39	right=98
+left=40	right=99
+left= 0	right=60
+left= 1	right=61
+left= 2	right=62
+left= 3	right=63
+left= 4	right=64
+left= 5	right=65
+left= 6	right=66
+left= 7	right=67
+left= 8	right=68
+left= 9	right=69
+left=10	right=70
+left=11	right=71
+left=12	right=72
+left=13	right=73
+left=14	right=74
+left=15	right=75
+left=16	right=76
+left=17	right=77
+left=18	right=78
+left=19	right=79
+left=20	right=80
+left=21	right=81
+left=22	right=82
+left=23	right=83
+left=24	right=84
+left=25	right=85
+left=26	right=86
+left=27	right=87
+left=28	right=88
+left=29	right=89
+left=30	right=90
+left=31	right=91
+left=32	right=92
+left=33	right=93
+left=34	right=94
+left=35	right=95
+left=36	right=96
+left=37	right=97
+left=38	right=98
+left=39	right=99
+left= 0	right=61
+left= 1	right=62
+left= 2	right=63
+left= 3	right=64
+left= 4	right=65
+left= 5	right=66
+left= 6	right=67
+left= 7	right=68
+left= 8	right=69
+left= 9	right=70
+left=10	right=71
+left=11	right=72
+left=12	right=73
+left=13	right=74
+left=14	right=75
+left=15	right=76
+left=16	right=77
+left=17	right=78
+left=18	right=79
+left=19	right=80
+left=20	right=81
+left=21	right=82
+left=22	right=83
+left=23	right=84
+left=24	right=85
+left=25	right=86
+left=26	right=87
+left=27	right=88
+left=28	right=89
+left=29	right=90
+left=30	right=91
+left=31	right=92
+left=32	right=93
+left=33	right=94
+left=34	right=95
+left=35	right=96
+left=36	right=97
+left=37	right=98
+left=38	right=99
+left= 0	right=62
+left= 1	right=63
+left= 2	right=64
+left= 3	right=65
+left= 4	right=66
+left= 5	right=67
+left= 6	right=68
+left= 7	right=69
+left= 8	right=70
+left= 9	right=71
+left=10	right=72
+left=11	right=73
+left=12	right=74
+left=13	right=75
+left=14	right=76
+left=15	right=77
+left=16	right=78
+left=17	right=79
+left=18	right=80
+left=19	right=81
+left=20	right=82
+left=21	right=83
+left=22	right=84
+left=23	right=85
+left=24	right=86
+left=25	right=87
+left=26	right=88
+left=27	right=89
+left=28	right=90
+left=29	right=91
+left=30	right=92
+left=31	right=93
+left=32	right=94
+left=33	right=95
+left=34	right=96
+left=35	right=97
+left=36	right=98
+left=37	right=99
+left= 0	right=63
+left= 1	right=64
+left= 2	right=65
+left= 3	right=66
+left= 4	right=67
+left= 5	right=68
+left= 6	right=69
+left= 7	right=70
+left= 8	right=71
+left= 9	right=72
+left=10	right=73
+left=11	right=74
+left=12	right=75
+left=13	right=76
+left=14	right=77
+left=15	right=78
+left=16	right=79
+left=17	right=80
+left=18	right=81
+left=19	right=82
+left=20	right=83
+left=21	right=84
+left=22	right=85
+left=23	right=86
+left=24	right=87
+left=25	right=88
+left=26	right=89
+left=27	right=90
+left=28	right=91
+left=29	right=92
+left=30	right=93
+left=31	right=94
+left=32	right=95
+left=33	right=96
+left=34	right=97
+left=35	right=98
+left=36	right=99
+left= 0	right=64
+left= 1	right=65
+left= 2	right=66
+left= 3	right=67
+left= 4	right=68
+left= 5	right=69
+left= 6	right=70
+left= 7	right=71
+left= 8	right=72
+left= 9	right=73
+left=10	right=74
+left=11	right=75
+left=12	right=76
+left=13	right=77
+left=14	right=78
+left=15	right=79
+left=16	right=80
+left=17	right=81
+left=18	right=82
+left=19	right=83
+left=20	right=84
+left=21	right=85
+left=22	right=86
+left=23	right=87
+left=24	right=88
+left=25	right=89
+left=26	right=90
+left=27	right=91
+left=28	right=92
+left=29	right=93
+left=30	right=94
+left=31	right=95
+left=32	right=96
+left=33	right=97
+left=34	right=98
+left=35	right=99
+left= 0	right=65
+left= 1	right=66
+left= 2	right=67
+left= 3	right=68
+left= 4	right=69
+left= 5	right=70
+left= 6	right=71
+left= 7	right=72
+left= 8	right=73
+left= 9	right=74
+left=10	right=75
+left=11	right=76
+left=12	right=77
+left=13	right=78
+left=14	right=79
+left=15	right=80
+left=16	right=81
+left=17	right=82
+left=18	right=83
+left=19	right=84
+left=20	right=85
+left=21	right=86
+left=22	right=87
+left=23	right=88
+left=24	right=89
+left=25	right=90
+left=26	right=91
+left=27	right=92
+left=28	right=93
+left=29	right=94
+left=30	right=95
+left=31	right=96
+left=32	right=97
+left=33	right=98
+left=34	right=99
+left= 0	right=66
+left= 1	right=67
+left= 2	right=68
+left= 3	right=69
+left= 4	right=70
+left= 5	right=71
+left= 6	right=72
+left= 7	right=73
+left= 8	right=74
+left= 9	right=75
+left=10	right=76
+left=11	right=77
+left=12	right=78
+left=13	right=79
+left=14	right=80
+left=15	right=81
+left=16	right=82
+left=17	right=83
+left=18	right=84
+left=19	right=85
+left=20	right=86
+left=21	right=87
+left=22	right=88
+left=23	right=89
+left=24	right=90
+left=25	right=91
+left=26	right=92
+left=27	right=93
+left=28	right=94
+left=29	right=95
+left=30	right=96
+left=31	right=97
+left=32	right=98
+left=33	right=99
+left= 0	right=67
+left= 1	right=68
+left= 2	right=69
+left= 3	right=70
+left= 4	right=71
+left= 5	right=72
+left= 6	right=73
+left= 7	right=74
+left= 8	right=75
+left= 9	right=76
+left=10	right=77
+left=11	right=78
+left=12	right=79
+left=13	right=80
+left=14	right=81
+left=15	right=82
+left=16	right=83
+left=17	right=84
+left=18	right=85
+left=19	right=86
+left=20	right=87
+left=21	right=88
+left=22	right=89
+left=23	right=90
+left=24	right=91
+left=25	right=92
+left=26	right=93
+left=27	right=94
+left=28	right=95
+left=29	right=96
+left=30	right=97
+left=31	right=98
+left=32	right=99
+left= 0	right=68
+left= 1	right=69
+left= 2	right=70
+left= 3	right=71
+left= 4	right=72
+left= 5	right=73
+left= 6	right=74
+left= 7	right=75
+left= 8	right=76
+left= 9	right=77
+left=10	right=78
+left=11	right=79
+left=12	right=80
+left=13	right=81
+left=14	right=82
+left=15	right=83
+left=16	right=84
+left=17	right=85
+left=18	right=86
+left=19	right=87
+left=20	right=88
+left=21	right=89
+left=22	right=90
+left=23	right=91
+left=24	right=92
+left=25	right=93
+left=26	right=94
+left=27	right=95
+left=28	right=96
+left=29	right=97
+left=30	right=98
+left=31	right=99
+left= 0	right=69
+left= 1	right=70
+left= 2	right=71
+left= 3	right=72
+left= 4	right=73
+left= 5	right=74
+left= 6	right=75
+left= 7	right=76
+left= 8	right=77
+left= 9	right=78
+left=10	right=79
+left=11	right=80
+left=12	right=81
+left=13	right=82
+left=14	right=83
+left=15	right=84
+left=16	right=85
+left=17	right=86
+left=18	right=87
+left=19	right=88
+left=20	right=89
+left=21	right=90
+left=22	right=91
+left=23	right=92
+left=24	right=93
+left=25	right=94
+left=26	right=95
+left=27	right=96
+left=28	right=97
+left=29	right=98
+left=30	right=99
+left= 0	right=70
+left= 1	right=71
+left= 2	right=72
+left= 3	right=73
+left= 4	right=74
+left= 5	right=75
+left= 6	right=76
+left= 7	right=77
+left= 8	right=78
+left= 9	right=79
+left=10	right=80
+left=11	right=81
+left=12	right=82
+left=13	right=83
+left=14	right=84
+left=15	right=85
+left=16	right=86
+left=17	right=87
+left=18	right=88
+left=19	right=89
+left=20	right=90
+left=21	right=91
+left=22	right=92
+left=23	right=93
+left=24	right=94
+left=25	right=95
+left=26	right=96
+left=27	right=97
+left=28	right=98
+left=29	right=99
+left= 0	right=71
+left= 1	right=72
+left= 2	right=73
+left= 3	right=74
+left= 4	right=75
+left= 5	right=76
+left= 6	right=77
+left= 7	right=78
+left= 8	right=79
+left= 9	right=80
+left=10	right=81
+left=11	right=82
+left=12	right=83
+left=13	right=84
+left=14	right=85
+left=15	right=86
+left=16	right=87
+left=17	right=88
+left=18	right=89
+left=19	right=90
+left=20	right=91
+left=21	right=92
+left=22	right=93
+left=23	right=94
+left=24	right=95
+left=25	right=96
+left=26	right=97
+left=27	right=98
+left=28	right=99
+left= 0	right=72
+left= 1	right=73
+left= 2	right=74
+left= 3	right=75
+left= 4	right=76
+left= 5	right=77
+left= 6	right=78
+left= 7	right=79
+left= 8	right=80
+left= 9	right=81
+left=10	right=82
+left=11	right=83
+left=12	right=84
+left=13	right=85
+left=14	right=86
+left=15	right=87
+left=16	right=88
+left=17	right=89
+left=18	right=90
+left=19	right=91
+left=20	right=92
+left=21	right=93
+left=22	right=94
+left=23	right=95
+left=24	right=96
+left=25	right=97
+left=26	right=98
+left=27	right=99
+left= 0	right=73
+left= 1	right=74
+left= 2	right=75
+left= 3	right=76
+left= 4	right=77
+left= 5	right=78
+left= 6	right=79
+left= 7	right=80
+left= 8	right=81
+left= 9	right=82
+left=10	right=83
+left=11	right=84
+left=12	right=85
+left=13	right=86
+left=14	right=87
+left=15	right=88
+left=16	right=89
+left=17	right=90
+left=18	right=91
+left=19	right=92
+left=20	right=93
+left=21	right=94
+left=22	right=95
+left=23	right=96
+left=24	right=97
+left=25	right=98
+left=26	right=99
+left= 0	right=74
+left= 1	right=75
+left= 2	right=76
+left= 3	right=77
+left= 4	right=78
+left= 5	right=79
+left= 6	right=80
+left= 7	right=81
+left= 8	right=82
+left= 9	right=83
+left=10	right=84
+left=11	right=85
+left=12	right=86
+left=13	right=87
+left=14	right=88
+left=15	right=89
+left=16	right=90
+left=17	right=91
+left=18	right=92
+left=19	right=93
+left=20	right=94
+left=21	right=95
+left=22	right=96
+left=23	right=97
+left=24	right=98
+left=25	right=99
+left= 0	right=75
+left= 1	right=76
+left= 2	right=77
+left= 3	right=78
+left= 4	right=79
+left= 5	right=80
+left= 6	right=81
+left= 7	right=82
+left= 8	right=83
+left= 9	right=84
+left=10	right=85
+left=11	right=86
+left=12	right=87
+left=13	right=88
+left=14	right=89
+left=15	right=90
+left=16	right=91
+left=17	right=92
+left=18	right=93
+left=19	right=94
+left=20	right=95
+left=21	right=96
+left=22	right=97
+left=23	right=98
+left=24	right=99
+left= 0	right=76
+left= 1	right=77
+left= 2	right=78
+left= 3	right=79
+left= 4	right=80
+left= 5	right=81
+left= 6	right=82
+left= 7	right=83
+left= 8	right=84
+left= 9	right=85
+left=10	right=86
+left=11	right=87
+left=12	right=88
+left=13	right=89
+left=14	right=90
+left=15	right=91
+left=16	right=92
+left=17	right=93
+left=18	right=94
+left=19	right=95
+left=20	right=96
+left=21	right=97
+left=22	right=98
+left=23	right=99
+left= 0	right=77
+left= 1	right=78
+left= 2	right=79
+left= 3	right=80
+left= 4	right=81
+left= 5	right=82
+left= 6	right=83
+left= 7	right=84
+left= 8	right=85
+left= 9	right=86
+left=10	right=87
+left=11	right=88
+left=12	right=89
+left=13	right=90
+left=14	right=91
+left=15	right=92
+left=16	right=93
+left=17	right=94
+left=18	right=95
+left=19	right=96
+left=20	right=97
+left=21	right=98
+left=22	right=99
+left= 0	right=78
+left= 1	right=79
+left= 2	right=80
+left= 3	right=81
+left= 4	right=82
+left= 5	right=83
+left= 6	right=84
+left= 7	right=85
+left= 8	right=86
+left= 9	right=87
+left=10	right=88
+left=11	right=89
+left=12	right=90
+left=13	right=91
+left=14	right=92
+left=15	right=93
+left=16	right=94
+left=17	right=95
+left=18	right=96
+left=19	right=97
+left=20	right=98
+left=21	right=99
+left= 0	right=79
+left= 1	right=80
+left= 2	right=81
+left= 3	right=82
+left= 4	right=83
+left= 5	right=84
+left= 6	right=85
+left= 7	right=86
+left= 8	right=87
+left= 9	right=88
+left=10	right=89
+left=11	right=90
+left=12	right=91
+left=13	right=92
+left=14	right=93
+left=15	right=94
+left=16	right=95
+left=17	right=96
+left=18	right=97
+left=19	right=98
+left=20	right=99
+left= 0	right=80
+left= 1	right=81
+left= 2	right=82
+left= 3	right=83
+left= 4	right=84
+left= 5	right=85
+left= 6	right=86
+left= 7	right=87
+left= 8	right=88
+left= 9	right=89
+left=10	right=90
+left=11	right=91
+left=12	right=92
+left=13	right=93
+left=14	right=94
+left=15	right=95
+left=16	right=96
+left=17	right=97
+left=18	right=98
+left=19	right=99
+left= 0	right=81
+left= 1	right=82
+left= 2	right=83
+left= 3	right=84
+left= 4	right=85
+left= 5	right=86
+left= 6	right=87
+left= 7	right=88
+left= 8	right=89
+left= 9	right=90
+left=10	right=91
+left=11	right=92
+left=12	right=93
+left=13	right=94
+left=14	right=95
+left=15	right=96
+left=16	right=97
+left=17	right=98
+left=18	right=99
+left= 0	right=82
+left= 1	right=83
+left= 2	right=84
+left= 3	right=85
+left= 4	right=86
+left= 5	right=87
+left= 6	right=88
+left= 7	right=89
+left= 8	right=90
+left= 9	right=91
+left=10	right=92
+left=11	right=93
+left=12	right=94
+left=13	right=95
+left=14	right=96
+left=15	right=97
+left=16	right=98
+left=17	right=99
+left= 0	right=83
+left= 1	right=84
+left= 2	right=85
+left= 3	right=86
+left= 4	right=87
+left= 5	right=88
+left= 6	right=89
+left= 7	right=90
+left= 8	right=91
+left= 9	right=92
+left=10	right=93
+left=11	right=94
+left=12	right=95
+left=13	right=96
+left=14	right=97
+left=15	right=98
+left=16	right=99
+left= 0	right=84
+left= 1	right=85
+left= 2	right=86
+left= 3	right=87
+left= 4	right=88
+left= 5	right=89
+left= 6	right=90
+left= 7	right=91
+left= 8	right=92
+left= 9	right=93
+left=10	right=94
+left=11	right=95
+left=12	right=96
+left=13	right=97
+left=14	right=98
+left=15	right=99
+left= 0	right=85
+left= 1	right=86
+left= 2	right=87
+left= 3	right=88
+left= 4	right=89
+left= 5	right=90
+left= 6	right=91
+left= 7	right=92
+left= 8	right=93
+left= 9	right=94
+left=10	right=95
+left=11	right=96
+left=12	right=97
+left=13	right=98
+left=14	right=99
+left= 0	right=86
+left= 1	right=87
+left= 2	right=88
+left= 3	right=89
+left= 4	right=90
+left= 5	right=91
+left= 6	right=92
+left= 7	right=93
+left= 8	right=94
+left= 9	right=95
+left=10	right=96
+left=11	right=97
+left=12	right=98
+left=13	right=99
+left= 0	right=87
+left= 1	right=88
+left= 2	right=89
+left= 3	right=90
+left= 4	right=91
+left= 5	right=92
+left= 6	right=93
+left= 7	right=94
+left= 8	right=95
+left= 9	right=96
+left=10	right=97
+left=11	right=98
+left=12	right=99
+left= 0	right=88
+left= 1	right=89
+left= 2	right=90
+left= 3	right=91
+left= 4	right=92
+left= 5	right=93
+left= 6	right=94
+left= 7	right=95
+left= 8	right=96
+left= 9	right=97
+left=10	right=98
+left=11	right=99
+left= 0	right=89
+left= 1	right=90
+left= 2	right=91
+left= 3	right=92
+left= 4	right=93
+left= 5	right=94
+left= 6	right=95
+left= 7	right=96
+left= 8	right=97
+left= 9	right=98
+left=10	right=99
+left= 0	right=90
+left= 1	right=91
+left= 2	right=92
+left= 3	right=93
+left= 4	right=94
+left= 5	right=95
+left= 6	right=96
+left= 7	right=97
+left= 8	right=98
+left= 9	right=99
+left= 0	right=91
+left= 1	right=92
+left= 2	right=93
+left= 3	right=94
+left= 4	right=95
+left= 5	right=96
+left= 6	right=97
+left= 7	right=98
+left= 8	right=99
+left= 0	right=92
+left= 1	right=93
+left= 2	right=94
+left= 3	right=95
+left= 4	right=96
+left= 5	right=97
+left= 6	right=98
+left= 7	right=99
+left= 0	right=93
+left= 1	right=94
+left= 2	right=95
+left= 3	right=96
+left= 4	right=97
+left= 5	right=98
+left= 6	right=99
+left= 0	right=94
+left= 1	right=95
+left= 2	right=96
+left= 3	right=97
+left= 4	right=98
+left= 5	right=99
+left= 0	right=95
+left= 1	right=96
+left= 2	right=97
+left= 3	right=98
+left= 4	right=99
+left= 0	right=96
+left= 1	right=97
+left= 2	right=98
+left= 3	right=99
+left= 0	right=97
+left= 1	right=98
+left= 2	right=99
+left= 0	right=98
+left= 1	right=99
+left= 0	right=99
+1,1
+94,100
+=6530=
